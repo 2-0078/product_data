@@ -1,0 +1,3535 @@
+[
+  {
+    "productName": "테일러메이드 x 키스 스태프 백 화이트",
+    "aiEstimatedPrice": 4120000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Taylormade x Kith Staff Bag White",
+    "purchasePrice": 2750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfODIg/MDAxNzQxMjU3MzY2MDMx.gkGcprpKakD6e_q-d2c69Nis9usLr_D6jauI0605e5gg.teYZgNXz07a5EOGh2vYCRKcCSVpRjY5pBuOKVjCHWOkg.PNG/a_02c9ceed629b4b33aff47bedacd5ec0a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTg0/MDAxNzQxMjU3MzY1NzM2.gxTR-HBESNT85-lW_1dc2f5Af1shZzybk4PKYMBBu1Ig._nrzILbhBD6u08NQSSH-iNTUpYiqFXFd5ytv_gUUZKgg.PNG/a_3824c7a7a77f4124918c5a6723f8508c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "슈프림 x 리모와 토파즈 멀티휠 레드 45L - 18SS",
+    "aiEstimatedPrice": 6000000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Supreme x Rimowa Topas Multiwheel Red 45L - 18SS",
+    "purchasePrice": 4000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjEz/MDAxNzQxMjU3MTMwOTMw.GHwhvNsKbIxoEVSXlXpzL3LPwsUCmogKnZFwpa5wTWgg.6smshpa9mv5PQPq0t-7BNtM7cfDyyBe8QyTRy9tPEewg.PNG/a_34e5c70ae66a46bb9b4c7e6eb50753d8.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTk0/MDAxNzQxMjU3MTMxMTc3.xhTzTafBPs-5LlnKM-LppabhA6dMDqNF4d3DIW6-p5wg.e66KhEm5M0I8vy-ElWUaxCI7G8Cx5-VHfIcXJFLDjCQg.PNG/a_c4c6bedd1ed2480fa44dabf3fab1ac46.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 가든 파티 30 백 캔버스 네곤다 & 팔라듐 하드웨어 블루 마린 블루 인디고",
+    "aiEstimatedPrice": 4040000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Hermes Garden Party 30 Bag Canvas Negonda & Palladium Bleu Marine Bleu Indigo",
+    "purchasePrice": 2690000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjIg/MDAxNzQwMzg5MTcwODEy.IK6hSBFUUk2DTjVIDrM_t6IVdUvEGdLwuN2scBznRigg._QtqvV5D65tLZY31agfGzG4EQg0YidiP7zuAMDRrKBgg.PNG/a_2efa789addf14478abe2fcd9fbfa94f4.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjIg/MDAxNzQwMzg3MDQxNDc1.ubAuKj-ah0qn8GOSpySzaXZ104SQRfBaKRWlgZiaPVwg.vDBPER3CGVa-kcDLrglKrIDomBKPhFLA83T_JgmXtwEg.PNG/a_67ecf954d03d4217a1dba11af08ec577.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 오타크로와 40 백 토고 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 29810000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Haut A Courroies 40 Bag Togo & Palladium Noir",
+    "purchasePrice": 19870000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjA4/MDAxNzQwMzg4OTY3NjY5.u2_IlzOKuNgmeg7sURMdDMN08nbyvBNgnt1NjtVVHt8g.KAdOmZX_nKcuWZHCZ9xw11lmGkfj5wwJEw840fctHp4g.PNG/a_bca4c18ad65b41dda1bd920344d1f1f4.png",
+        "isThumbnail": true
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 5250000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Etoupe",
+    "purchasePrice": 3500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjI1/MDAxNzQwMzg4ODYzMzAx.dKVfJq4JS4JQX6HOByP4LZOHHotPvSQunOhdjVuVG5gg.kdpBEvQI7xkmjwNxZ0CjBFJ3V-scTrUGhSW_z-68swgg.PNG/a_6f72ccd8d64344c5a1edf5001fa6e81a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 4570000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Palladium Noir",
+    "purchasePrice": 3050000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNjgg/MDAxNzQwMzg4Nzk3NDI2.TzWoAyGlBcKOnZ5VKZRHXK3cyITWtm0N6p_dyRJWy80g.ul1tkvDrX-Y5hw0qMhp1KL_kCHWsWl1OzwkLkyA0hocg.PNG/a_ec6fdcd56b5e4a48a2478592b44b5d99.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTEg/MDAxNzQwMzg5MDQ0MjAy.ADyO9TJzNqWxcBYBUIcxiJ0AzDJPVu1NATvLLyymLHAg.QBojv2ZQIUXTTCGWStXld19JMDMUx5Mi5x03UFF-sLsg.PNG/a_4458a37d6a1740e0b06988ad93605496.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 26 백 클레망스 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 11430000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Lindy 26 Bag Clemence & Gold Etoupe",
+    "purchasePrice": 7620000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTUz/MDAxNzQwMzg4NzM2OTU4.j8Im2VcZAdwysn7kIcfxxuZcCBCd6Ja3PAjBpOv0nikg.TX7Wy-0Pwzh6fW6pey8xMM4gMjwGIIz6Unep2plBm-8g.PNG/a_cb0f9dc504fa4fb2828e8357c04067ba.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfODAg/MDAxNzQwMzg4ODgzNjc1.1XQW4p2FZ_OjMP7K7qQugb4FpG5aki0MUMnQIZtskIQg.Uz47y1nZYGgSP7h-7OpX6qRDNaGPl0etOAhJIw2F2Rog.PNG/a_cec5554c661d45b881e76fb2e02c63b6.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 네오 가든 파티 23 백 네곤다 & 팔라듐 하드웨어 루즈 아쉬",
+    "aiEstimatedPrice": 6600000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Hermes Neo Garden Party 23 Bag Negonda & Palladium Rouge H",
+    "purchasePrice": 4400000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfODkg/MDAxNzQxOTMyOTk1MTYx.-5sDPx74w6U1u6fJaGKNlFoDTovjBxKqk_2kYfQVkg8g.2Ix7fUp5kak6fFvwCf7lvHfB6o70wxHgOnxCFSlL9W0g.PNG/a_d87ca53c3750492daa054edf3307aa71.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfMTA0/MDAxNzQxOTMyOTEyOTg0.2CG9oJAFP7SaRp5GoZr4ooadbjN_AwtzxAcmOUi080og.KHR-aExKr3OpKGrhVQ38JT5cBAc2wy15xkLCH6vrFM0g.PNG/a_fa31bd4c55fc4567bafc561494563971.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 미니백 클레망스 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 10720000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Lindy Mini Bag Clemence & Gold Etoupe",
+    "purchasePrice": 7150000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNTgg/MDAxNzQwMzg4ODU3Njc2.8pUjiHZIwnsZJAo9vyn4GURPPra-i3_JR_n_MqfGl2sg.N_OW0EpCPVPcQQ_DQKGdPL8-eu083aaVXct1VFdnNMcg.PNG/a_90472a3104624837a6ace24527f43a85.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNjcg/MDAxNzQwMzg4OTE5MzEx.g0drpBcuQby4MVJYwJrF2RaHzNgvNiTl3YfXanDDhSMg.h1HvkTS5mFJtVdS_y-GS2Ym7pU8XcKOfllIn-EhcUX8g.PNG/a_064c13b2917d4d33ab74248d4bb337c5.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "샤넬 클래식 미디움 플랩백 그레인드 샤이니 카프스킨 & 골드 메탈 라이트 핑크",
+    "aiEstimatedPrice": 12630000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Chanel Medium Classic Handbag Grained Shiny Calfskin & Gold Light Pink",
+    "purchasePrice": 8420000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMzUg/MDAxNzQwMzg4OTEwODQy.Vs1p8LyZjDj6xGQg-qtl8Rq8wXr09ku7qH67pFZ3_ygg.G5FmIQxTbKKIapoE6l9ARKKvhJnFggxcRHOah2M_uDYg.PNG/a_2b01d736a49a43dd9e64d08050f39381.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMzIg/MDAxNzQwMzg3Mzc0MjY2.kn7463_SQm3bnVOGZc7wct9bE0Q0aTl-y8YFcE3zNT8g.S8cgTefcVg7qtT0cEdy0JIwf8FBxdoZ6UL5wDUAxv6wg.PNG/a_914af00558de461db47de8494440097d.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 에르백 집 31 래커 백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 4380000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Hermes Herbag Zip 31 Laque Bag Military Canvas Hunter Cowhide & Palladium Noir",
+    "purchasePrice": 2920000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTUz/MDAxNzQwMzg4NzgwNDM2.Q7RkoxgCrRBtsFCBz_6tQruUMlIBarerwpOn3vTTug4g.dL8CK4VuuSTnPJIMUSn8clAnOAFM3qvL30XC4oQZ8FYg.PNG/a_3db409c142bf4a4f97ac1e4bafb480e5.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfODQg/MDAxNzQwMzg3Mjk4MjUz.SC0fX7RJtjbBJeRBEnLquX6S2_ex6AfYS8He41FeGDIg.d8XA1Kuy6Qc0FpUK6NtjrI9a06jnNRYBXxSBH9i11pQg.PNG/a_ce2e80a7ed814fda959c07f864de5d33.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 누아",
+    "aiEstimatedPrice": 4530000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Noir",
+    "purchasePrice": 3020000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTM0/MDAxNzQwMzg4NzgyMTEy.vm5YzjszWlXu-JsCARgE--jX9YY9O1dIGxI5kOYJLZEg.Y2OAsOORqX6jN3qyvwzDz9PRzs3i_O-VZokDPrJQMUwg.PNG/a_246bb2a7e68b4768b6960c73678b4d2f.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 볼리드 27 백 앱송 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 8250000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Bolide 27 Bag Epsom & Palladium Noir",
+    "purchasePrice": 5500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc2/MDAxNzQwMzg4NzgwMjI1.yXXBMScPh4sQJBLTFNnyVrn2esXFsfCSIo5a5uas4Asg.c5VbVMCkEw6uBHfsZhQzNQWlOT5yeCDLO9abgwNCX6cg.PNG/a_2d62dd0b318a42998858d010a00076e9.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjc4/MDAxNzQwMzg4OTcxMTI0.eK5QYUrW5s0mvmz0fN3lWXOIkzqcERc8CBjDBoDTmUIg.cCmJhdXNrX_LUK_qVNPFzHknj-tUL1ikKvhzrre8bvQg.PNG/a_600e3c4a866a488ea6a1c3a50fa3ae51.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 26 백 클레망스 & 골드 하드웨어 골드",
+    "aiEstimatedPrice": 10420000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Lindy 26 Bag Clemence & Gold",
+    "purchasePrice": 6950000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMzUg/MDAxNzQwMzg4OTM1NTE5.hXo7sa_j7CgBHUfJwwx4iitZT_Rqlw0CUik1X9GsLhsg.s80e2JFTMA05x48x62SKFtLwh3BBgpSnFfzkQYxft1wg.PNG/a_25b20c159dd84878be0d2bae5191057d.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfODAg/MDAxNzQwMzg4ODgzNjc1.1XQW4p2FZ_OjMP7K7qQugb4FpG5aki0MUMnQIZtskIQg.Uz47y1nZYGgSP7h-7OpX6qRDNaGPl0etOAhJIw2F2Rog.PNG/a_cec5554c661d45b881e76fb2e02c63b6.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 미니백 클레망스 & 골드 하드웨어 골드",
+    "aiEstimatedPrice": 10120000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Lindy Mini Bag Clemence & Gold",
+    "purchasePrice": 6750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTE3/MDAxNzQwMzg4OTEzNDkw.9JmWhPf8iYqM7xF0IVMg5LgAMZmvhu-fZogDVWOgBN0g.J7Ol1_j6ELdmqIfRGPWErIgYciQNpuZ0GobwniM986cg.PNG/a_ec058afae81b465d968c4fc8dcf18d30.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNjcg/MDAxNzQwMzg4OTE5MzEx.g0drpBcuQby4MVJYwJrF2RaHzNgvNiTl3YfXanDDhSMg.h1HvkTS5mFJtVdS_y-GS2Ym7pU8XcKOfllIn-EhcUX8g.PNG/a_064c13b2917d4d33ab74248d4bb337c5.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 에르백 집 31 백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 4350000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Herbag Zip 31 Bag Military Canvas Hunter Cowhide & Palladium Noir",
+    "purchasePrice": 2900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjg0/MDAxNzQwMzg4NzY2NDk1.CZTzeLsb0wNwgFh7PsF_vvpT0uKGJE-3dBBBF3sXoE0g.-Cu1PAwOtQPgWaaqCFKK0QwuV5ZwoFjxTscD4YJci_Ug.PNG/a_b4fd15593b9f48298b296f61e310e0ea.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNzEg/MDAxNzQwMzg5MTM4Mzg3.1p--ngAaBWvo61cN6UDejLOchW-WPHjZf8k1dgrpiXwg.79T6YkuKEdXtk-6oKusAq3IbENzobBqO4Vz-BEDFugog.PNG/a_0a945195f98d4dee8c962f3c1f8b2e44.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 26 백 클레망스 & 팔라듐 하드웨어 누아",
+    "aiEstimatedPrice": 10650000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Lindy 26 Bag Clemence & Palladium Noir",
+    "purchasePrice": 7100000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjUg/MDAxNzQwMzg4ODU3NTk3.pk2Ne-k4Oc3Cq0tE4Flf00K5jB9SOrmuKd3p39zIHAkg.ECDhEIM36mSBs7_lp3J-jpd-lhQCwUTXkcCr4lUHD_Eg.PNG/a_6b8f5e7a49664e08933139dfa7be7f3a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTQg/MDAxNzQwMzg2OTM5NDQ4.P6g0daaBRL6iI2KnEyxRzkhY-holX7Pyq6asSGtJD6Qg.cy4BK21r5u6ZzTwxjG1W8hyKsdmGzp9sF-Q0iwNSf5Ag.PNG/a_9cd81ce8b56c41209481f035587a64c9.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 30 백 클레망스 & 골드 하드웨어 골드",
+    "aiEstimatedPrice": 11160000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Lindy 30 Bag Clemence & Gold",
+    "purchasePrice": 7440000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjAg/MDAxNzQwMzg4ODcwODc0.kFB3uHiBQGrNiFKky_IaU03kOFcVeR1hw93GH6RpV3Eg.e5nB4k3_IzCzN2sVQjyO1ZSvR5NOHBCVikvMnv6FxAYg.PNG/a_f9408bc4ce7a4101be237d5add86e7b5.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNDkg/MDAxNzQwMzg3NTA2NTA4.Du0uXX8lSw2L7Pt9cE9z31fCjQqVDuROfEhnhrQ3LDcg._PnnSPKGCwG23BGp5VQTNjbgPVMcj6jqVgTddk8hnhUg.PNG/a_229d8e5fa3a7474caf687b18c815e94c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 비스뀌",
+    "aiEstimatedPrice": 4420000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Biscuit",
+    "purchasePrice": 2950000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTM4/MDAxNzQwMzg5MDI2MDQ2.lnVTdpgDQFwhIE6N9ybY1Uh5GyVphfe8hAVkR1ko0nsg.u50B4Wh5hXVoosrBeeBFCCGuRlkRA6NZWfwAiGPYE8Ig.PNG/a_53a4440ce9d3444791d2cd90a38e1b4f.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 트렌치",
+    "aiEstimatedPrice": 4340000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Trench",
+    "purchasePrice": 2890000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNzgg/MDAxNzQwMzg4OTY0ODA1.ZTUuPMKCGnBiJqfbkiYJU85d-c2J88bjz5J18EtZ5yYg.XugmG0KL_OeTqZgF6Zg0xTkP604hOVBSnO4mQAAfKdIg.PNG/a_74f3f61eaa5c422ca4573482593f2dbb.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 에르백 집 31 백 르투르네 바이킹 캔버스 & 팔라듐 하드웨어 에크류 누아",
+    "aiEstimatedPrice": 3720000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Hermes Herbag Zip 31 Bag Retourne Viking Canvas & Palladium Ecru Noir",
+    "purchasePrice": 2480000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTA1/MDAxNzQwMzg5MTYzMDU4.wuCzgzc4l9MLT9cI9WS7VOPVuYljQtsvXag8dXj_r0Qg.N35fyaTEb49wjuEFt6X4lVnCe6A-Qt3dCDjFtPEZC84g.PNG/a_60bf72b48345464a9cf7e1e00ff2dd8e.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTM1/MDAxNzQwMzg4ODgxMDI3.3BVbWYqD0fHj4uZ29ca9bAWYERDkNPkE9CKNiIBIQfog._ksSTudMfoBcmJ_eSVYBmbieDnP3aIrUKtsHGb0WvkIg.PNG/a_6ab45a58685449b9b50834e55bb8c01b.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 30 백 클레망스 & 골드 하드웨어 누아",
+    "aiEstimatedPrice": 11250000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Hermes Lindy 30 Bag Clemence & Gold Noir",
+    "purchasePrice": 7500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNDUg/MDAxNzQwMzg5MTAzMDQz.o4vURFeIOqrDZkvyVtVdC9-mLL6dnzZD9myyr1qLUN8g.wYgf6wvVgytXzE6k6GcHv9hjksDoIACZVUwKjhSsR1Ug.PNG/a_f93a2fd856114625b3aedcd70865961b.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNDkg/MDAxNzQwMzg3NTA2NTA4.Du0uXX8lSw2L7Pt9cE9z31fCjQqVDuROfEhnhrQ3LDcg._PnnSPKGCwG23BGp5VQTNjbgPVMcj6jqVgTddk8hnhUg.PNG/a_229d8e5fa3a7474caf687b18c815e94c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 나타",
+    "aiEstimatedPrice": 4410000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Nata",
+    "purchasePrice": 2940000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjY3/MDAxNzQwMzg4NzQ2MTcw.LQLKEuAsb1E_pbqNhY3_4KJCNxqM4DorrxYFlpI6RtAg.nk8WZSbNcZfDNrC4elapXWqTp2I7_2e_7Q1vxuRsEUgg.PNG/a_4eec9cf325674503a2baa231a67c20e9.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "샤넬 스몰 백팩 램스킨 & 골드 메탈 블랙",
+    "aiEstimatedPrice": 6840000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Chanel Small Backpack Lambskin & Gold Black",
+    "purchasePrice": 4560000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjQ1/MDAxNzQwMzg4OTk1ODg0.DKysSkzwco_84N1HwKeG4Pden7hkeO-r_hqKuOBZi8wg.UdApZOPQ3ohDEJbHAT9aRTep7XTxhD96H1eYjQuiqdIg.PNG/a_9901420fe1ec4459bce4e59ac297060d.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjU5/MDAxNzQwMzg4OTk5Njk0.53PGMznjdXJn0a5CZvA4mxLaJrbbEkz5p9un0ABy18Mg.MCLV-geTpIjpSF5Qxg0hwQfNGvST09ycMbFkLlz-6nUg.PNG/a_c86a112dcfe94029b08c3e67d9b7e0d5.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "샤넬 미니 플랩백 램스킨 & 실버 메탈 블랙",
+    "aiEstimatedPrice": 7950000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Chanel Mini Flap Bag Lambskin & Silver Black",
+    "purchasePrice": 5300000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjk3/MDAxNzQwMzg4NzM0MTIz.nKCK80-lA2wJSugRa7LBiJM1OgvJJCRZ9aT2FbwOrakg.SkOl0MBYts9T55BuO_NK-qQqOc-OxccOMfH5bMzZ10Ag.PNG/a_363d1ed4a247459980dd2a3d952d3e73.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTIg/MDAxNzQwMzg4NzM0NDI1.0SLlwn6uQo2NM06tofZbExqyrhNWuR6Ls8GJCqXQgTIg.zhFseiLLaEtxvQ2vsAwGflk2D7IVysTej_KzbwMM66og.PNG/a_05a4c48f78aa47ddb52eba09c66f4abf.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 골드",
+    "aiEstimatedPrice": 4800000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Gold",
+    "purchasePrice": 3200000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjY3/MDAxNzQwMzg4NzQ2MTcw.LQLKEuAsb1E_pbqNhY3_4KJCNxqM4DorrxYFlpI6RtAg.nk8WZSbNcZfDNrC4elapXWqTp2I7_2e_7Q1vxuRsEUgg.PNG/a_4eec9cf325674503a2baa231a67c20e9.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 크레",
+    "aiEstimatedPrice": 4350000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Craie",
+    "purchasePrice": 2900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTk0/MDAxNzQwMzg5MTA5Nzc0.bcaX3DRkKv0BCiBjvTcz87C_4c8YDSyljWVw4e3uiAog.L-3qqkrHrdDonFzRAmksvM3kGAI7f7kKc2e-u7X6QCgg.PNG/a_a353376edbce48ff887600a626e3ecf0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 팔라듐 하드웨어 베통",
+    "aiEstimatedPrice": 4120000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Palladium Beton",
+    "purchasePrice": 2750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTMg/MDAxNzQwMzg5MDQwODY1.49XZbS2VqMk84OmMx8Wekuf9OgHdZlOQ2CvEH6YpSycg.3JCkY3iJhWRjUVUaZs30CApMJv_t_v2kkn7mwvjtXP4g.PNG/a_15c20e83235143c9a30f02a85de303fd.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTEg/MDAxNzQwMzg5MDQ0MjAy.ADyO9TJzNqWxcBYBUIcxiJ0AzDJPVu1NATvLLyymLHAg.QBojv2ZQIUXTTCGWStXld19JMDMUx5Mi5x03UFF-sLsg.PNG/a_4458a37d6a1740e0b06988ad93605496.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 켈리 클래식 투 고 장지갑 앱송 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 6220000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Hermes Kelly Classic To Go Wallet Epsom & Gold Etoupe",
+    "purchasePrice": 4150000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjA0/MDAxNzQxMDQ1OTk4OTk0.1Pp7yL2WX0sGmdz-rV_pF8TsSeoC_a3f-kgMEQmZj2Ag.7EcZFbKm_UI-mRobEBITe79SCuqbcK5aO9zhofemR14g.PNG/a_ac4598b32ea147999b2fecc89affc9be.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfNDEg/MDAxNzQxMDQ1ODM0OTE3.aiylUNbOLFSQFa8XRp5iVx86qdd2hg-75LX81E3OEwQg.ImDMNEOJMjuYjYH7fsJm2CrDdTaqHlW5cSyCcU-611Mg.PNG/a_8775629a13ec49f29c7951158f1f700b.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 에블린 16 아마존 백 클레망스 & 골드 하드웨어 그리 네베",
+    "aiEstimatedPrice": 4480000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Evelyne 16 Amazone Bag Clemence & Gold Gris Neve",
+    "purchasePrice": 2990000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTg0/MDAxNzQwMzg3MTM3ODQ2.KV8DW0rsvMfoJbmzKSNx--52VnYSUpv4i09D98tOvDEg.bgZi8AnI2jFXbtJG2zh2jnmlSRTdriE3w7sco2DAsUYg.PNG/a_a01337fbb1a743a0a47311eca4fd8007.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA0MTdfMTc1/MDAxNzQ0ODc2ODgwMDg0.hhwaGOM8fYA4n-Nva7ZDobQYU28qBWX5IGKQACnPBk4g.zieTdNijGtDE0nPjZQvP_mvI7-aAKctc5xXMHHrwEBwg.PNG/a_c6dd2566b66f463e947d1feda78e1153.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 린디 30 백 클레망스 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 8990000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Lindy 30 Bag Clemence & Gold Etoupe",
+    "purchasePrice": 5990000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjI4/MDAxNzQwMzg4OTY2MzU0.Wnsdlk3_QVhAJjLBD2FhjeloPI0tIHwZyEhmNtrpk4Ug.8fXsizNhfpKSLw5a72Fsxxebqa2-FWfGb8hsknwvhFwg.PNG/a_f0718b8e20e241abb0467e7d8256ab93.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNDkg/MDAxNzQwMzg3NTA2NTA4.Du0uXX8lSw2L7Pt9cE9z31fCjQqVDuROfEhnhrQ3LDcg._PnnSPKGCwG23BGp5VQTNjbgPVMcj6jqVgTddk8hnhUg.PNG/a_229d8e5fa3a7474caf687b18c815e94c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "더 로우 테라스 백 레더 블랙",
+    "aiEstimatedPrice": 4110000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "The Row Terrasse Bag in Leather Black",
+    "purchasePrice": 2740000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMjkg/MDAxNzQxMzM4NDQ4MDM0.vUyKA1EsupwF8U0iaDXp83OiDHXbASoLN_jJ-ZL_ShIg.OL4sm8Vd0zqAVnld7DbxX1fO9dw8um5upTpfWIPDsCwg.PNG/a_c9b0729157a4488cbd4cdda55d571c8c.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfNzYg/MDAxNzQxMzM4NTIzNTI4.cR2VitJR1ahKBjTH6_hCCtp7EbM806BffpVE637PlYog.jchlBBri5QdkUoETwW7QPS7WF5I5yAzHj0bP3hxykrIg.PNG/a_aac1b460305e41789a3bfa0bfdec6b19.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 소지",
+    "aiEstimatedPrice": 4500000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Sauge",
+    "purchasePrice": 3000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjUy/MDAxNzQwMzg3MDYxNjE2.uFSbAGY6lVOr5DCeqSXPOKgkw6VTsvLb1Vy6JXUY6x4g.8XfOAG3zNC6U81rc96iQhdyiqWNHLUDMRwGCHKXOI_Qg.PNG/a_3e773329301e4e30913b03984427db74.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 네오 가든 파티 23 백 네곤다 & 팔라듐 하드웨어 베통",
+    "aiEstimatedPrice": 5580000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Neo Garden Party 23 Bag Negonda & Palladium Beton",
+    "purchasePrice": 3720000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfMTk3/MDAxNzQxOTMzMDU2MDgx.QXQWTBEjIP7-fJTAhxj6vg1f1ZWhg06Dx2evmTMjhlAg.ZJTVjpkuBK6ws76zbNhw8axhstZtRptIGl_-P-UEx_Eg.PNG/a_8820e3d55ccc49fcbe6fb396edd0d9f0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfMTA0/MDAxNzQxOTMyOTEyOTg0.2CG9oJAFP7SaRp5GoZr4ooadbjN_AwtzxAcmOUi080og.KHR-aExKr3OpKGrhVQ38JT5cBAc2wy15xkLCH6vrFM0g.PNG/a_fa31bd4c55fc4567bafc561494563971.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 할잔 25 백 클레망스 & 골드 하드웨어 골드",
+    "aiEstimatedPrice": 7160000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Halzan 25 Bag Clemence & Gold",
+    "purchasePrice": 4770000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfNTUg/MDAxNzQwMzg4ODY2Njg0.B02JW9w3_G_22AhCXory-GI441hmGQXsMqoR6srdw0Mg.aSwYjVg0XS4T0KTLhTYhOHtFSIQp1CxwYKNxTfPNglYg.PNG/a_aa796c3109d4485cab9299983ccb54de.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTkg/MDAxNzQwMzg5MTQyNDg5.MubRHoBbRA9Fx0MlOS-EE590uiX83l2UNs8-vdeyhY4g._4bJWdW4JY-hicGTAqBn-8WG9Toshr0SELI-O_sQ80Qg.PNG/a_a5bbd8f46a1247a5aa503fbf0a938750.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "샤넬 체인 코스메틱 케이스 그레인드 샤이니 카프스킨 & 골드 메탈 블랙",
+    "aiEstimatedPrice": 4010000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Chanel Vanity With Chain Grained Shiny Calfskin & Gold Black",
+    "purchasePrice": 2670000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjE4/MDAxNzQxMjU0NTQ4ODcx.DEIrMQ56f8SDYVWPy8NpEwZ_DPmIkhhRiVxCwx2lN2og.MXsT7fmIWKp6ifa-VyfrDSA1-9dWrYlFKMBaEM0sessg.PNG/a_d3f1c35bb2c2401d97765f391ca57805.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMTg2/MDAxNzQxMzM5OTg2MDQ3.AiRMmrB4Xfm5aLStOtpDh1C3hRb6DJfczViLDRI5RsYg.o4OsiuuxU7l2WddD2cI4DWeHihS-T3k9EnR1V79Vt_Eg.PNG/a_d168dc8e90fa4a0b94883c6ba656f914.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 에블린 III 29 클레망스 & 골드 하드웨어 에뚜쁘",
+    "aiEstimatedPrice": 4420000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Evelyne III 29 Bag Clemence & Gold Etoupe",
+    "purchasePrice": 2940000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMjE3/MDAxNzQwMzg4NzM3NTEx._C2qUObyPznBW-h_nhJ_4kVc9XHI__M4yZfBxm6Uuqcg.6_CWzXDCyRIbGDWnSQJwpnw9RMUtDhbbeanmokl805Yg.PNG/a_0274de1fb8d14c6ba63c90bb0f1166cd.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTk5/MDAxNzQwMzg5MTExODA0.PABM0FsKDlnfEqOOpqnWzIOrbMNjEAdEvygd-aMQ9Hcg.QFpWBNO7bXaKx9ZgBNtcCxRd9adchmdE4R5RsGL66esg.PNG/a_868b44492fd64b7188da0b77277c8f33.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 네오 가든 파티 23 백 네곤다 & 팔라듐 하드웨어 골드",
+    "aiEstimatedPrice": 7160000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Neo Garden Party 23 Bag Negonda & Palladium Gold",
+    "purchasePrice": 4770000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfMTA0/MDAxNzQxOTMyOTEyOTg0.2CG9oJAFP7SaRp5GoZr4ooadbjN_AwtzxAcmOUi080og.KHR-aExKr3OpKGrhVQ38JT5cBAc2wy15xkLCH6vrFM0g.PNG/a_fa31bd4c55fc4567bafc561494563971.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTRfMzgg/MDAxNzQxOTMyOTUwODIz.10VM4XuByMhohPUDVwVlci6Fr8vy0Y2SPnX8Q7drCmkg.nosxVHND0I9BjfHivaElu3Wcp8gObBFmDPGcMwHoqTcg.PNG/a_3f7055bb7a0946eba0fc21dfc5cecfd4.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 베통",
+    "aiEstimatedPrice": 4270000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Beton",
+    "purchasePrice": 2850000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTA2/MDAxNzQwMzg5MDAxNjgw.0KdTRIsLM-UyshaZ2bnlngeT9fae3vK9fHPV_MJWBvQg.eE1Zc2aU8yr0Oz5eb3c3kO0OMWHP5B0OGqN9e2fDcoEg.PNG/a_ed91024a56f64ad19a010e5cc5725757.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 골드 하드웨어 블루 빨",
+    "aiEstimatedPrice": 3970000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Gold Bleu Pale",
+    "purchasePrice": 2650000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTk4/MDAxNzQwMzg4NzY4NTc0.qPcgDS7k2DbAEAKVAbIoto2C5Hq-lvQkgWYXZkLtX_sg.3xbGbsk89hK3GhrMpf7fAvU9ltXzGIr0ukdHsW0mFXIg.PNG/a_e08bd94f753d461cac980811e0d8b6c2.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTc5/MDAxNzQwMzg4NzM3Nzkw.006JuODd0VbAL2xLv0OKo47xWpnuNy9_--m4R2ZAfQEg.rHvZhDypEoTW4zgJvoG9a_m1uqMpW0x1G-jeDz55fgIg.PNG/a_4f2623109ec84fb78a026e6da6669226.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "에르메스 피코탄 락 18 백 클레망스 & 팔라듐 하드웨어 나타",
+    "aiEstimatedPrice": 4210000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Hermes Picotin Lock 18 Bag Clemence & Palladium Nata",
+    "purchasePrice": 2810000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfMTA3/MDAxNzQwMzg3MDg0NDY4.7FtMsx-QGLV_Sns2M4nvo2yOer8P5q5ffGjRU14zMgYg.bN92Si2mT63CUdPGIGQqgAmnghlFqUR2fwtwgCd0AYkg.PNG/a_d3e2fe5bef964c2fb66af20bdbe84fca.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjRfOTEg/MDAxNzQwMzg5MDQ0MjAy.ADyO9TJzNqWxcBYBUIcxiJ0AzDJPVu1NATvLLyymLHAg.QBojv2ZQIUXTTCGWStXld19JMDMUx5Mi5x03UFF-sLsg.PNG/a_4458a37d6a1740e0b06988ad93605496.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 1,
+      "categoryName": "명품 가방"
+    }
+  },
+  {
+    "productName": "나이키 SB 덩크 로우 하이네켄",
+    "aiEstimatedPrice": 6000000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike SB Dunk Low Heineken",
+    "purchasePrice": 4000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMzYg/MDAxNjAzMzMzOTQ3NDMx.Ca7Od-6hnOBdCfbJWjQiLApXtKotB5Z1-83NR35WN7Ag.BQM-n1zwnz9eiA2HfEot0x9DGCeah37Rkrr-nK6NnXsg.PNG/p_369_0_3767018eaa064ff7bc849e0acc227c8e.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA1MTRfMTk0/MDAxNzQ3MjEzNzk5NDA3.CQx31BMe98ylaCisPkntjFAb1CsXoKrSybrrBuP8NsUg.1ikNCn6slSxSz2NMczR39oTuP5G0fDM4_LmQzoUl-94g.PNG/a_eac721dc7a2b40e695f9e5a3ec0aa0c3.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 레트로 시카고 1994",
+    "aiEstimatedPrice": 3000000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 Retro Chicago 1994",
+    "purchasePrice": 2000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNTkg/MDAxNjAzMzMzOTI3MDA0.WNPDGrGTWfzJajHzijpem7HLOQkCoGzQlpU8YlFV50Ig.NkP3sTsUE570XP1WYCsIEMhidHuSNzxvFH-Fnti98JQg.PNG/p_145_0_041608de5e1e49d382e95ce1474e80a7.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNzkg/MDAxNjAzMzMzOTI1NTQ5.LNsUhztRjt04Ij33JTNu8P1WTquCmZclPgglaVlzqLkg.x7D1uXUnIbo0iwk7a4tp4SypCK-OuF8c1Z8dPklPxf0g.PNG/p_256_0_af06732e70a542a4816e9eaa7f902de8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 에어 이지 2 레드 옥토버",
+    "aiEstimatedPrice": 13350000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Nike Air Yeezy 2 Red October",
+    "purchasePrice": 8900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjQw/MDAxNjAzMzMzOTMzMTY4.dbLD7mHE88RLVEAp8O--Tq2E2R-7lUrOb-Ulm7zPPhkg.FUQnYZumVTBTWQ9ZFklFD4RTrKxHC7AF6V5AlUhHN18g.PNG/p_3965_0_96fb415f58ee4c18befb37fde4df3929.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjUw/MDAxNjAzMzMzOTI4ODk4.jLHXW26hHco0MZrtA4gLR-W996N8gM1lGh55ouyX3-Yg.dhrKFku6u3njmiOrMbdcCxHB4VO-OWLFoq5Um5_A78og.PNG/p_2745_0_8dd81bba12804b62ae8b0c767110b10a.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 톰 삭스 마스야드 슈 2.0 스페이스 캠프",
+    "aiEstimatedPrice": 4500000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Nike x Tom Sachs Mars Yard Shoe 2.0 Space Camp",
+    "purchasePrice": 3000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTcz/MDAxNjAzMzMzOTM2MzU0.2skbG5lojj6rN-jbRhs7PA1TBR-jzHLrkRDd8Jf91NQg.3hoNr806rGhi9f4658Zlf-iHtQQ1cRdcc6X8tuRCc_Ag.PNG/p_10482_0_31bcc574daca4f799e13452664514de2.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTU3/MDAxNjAzMzMzOTQ0NDU1.fm4iesdx3W2U509TsBB5vLyxQZTNEPgL5EjTiuhxXRog.2mFQeN6yIaMOMtaT-Ir1A3FpJimn-uRfIlrDQh84XP8g.PNG/p_2719_0_4ad1a3f5bfd145fbb1ef533dd1e4fbe6.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 레트로 브레드 1994",
+    "aiEstimatedPrice": 3600000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Jordan 1 Retro Bred 1994",
+    "purchasePrice": 2400000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTEyMzFfODQg/MDAxNjQwOTIxNTIyNTUx.tzSS9DW6dKd0DVp3RFY2ERmv4INcKc6Oi7gHizHSOjIg._bWB50Q6OQ_NpX10JRQlYhvAOuGyzAGV743zm9olWBAg.PNG/a_1be96e1c6d204dfc9cda60d794ea641a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNzkg/MDAxNjAzMzMzOTI1NTQ5.LNsUhztRjt04Ij33JTNu8P1WTquCmZclPgglaVlzqLkg.x7D1uXUnIbo0iwk7a4tp4SypCK-OuF8c1Z8dPklPxf0g.PNG/p_256_0_af06732e70a542a4816e9eaa7f902de8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 브이론 에어포스 1 로우 2017",
+    "aiEstimatedPrice": 4500000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x VLONE Air Force 1 Low 2017",
+    "purchasePrice": 3000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNDIg/MDAxNjAzMzMzOTUxNTg5.YV90laS1nu8ypBXI3j__LqaBZ_brHa3twJfx6wkOTq0g.GJMQV3qvBGkRihD2nnCoK7AnBueSS7wovlXN4cHYxcsg.PNG/p_9563_0_2840c6ceb1da4a479ac21ca05c64f3ff.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTdfMjU5/MDAxNzQyMTc4Mjk4NTg2.4jnW11NB6OywQ6p9X4ZncuJax9ICzMQIDcL5hGAI6bkg.KnaxELgtV4xxhhgCarSVO_BexJWQrxegiWipppDsxgog.PNG/a_1521287eec91477993274a9d46f0bfca.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 벤앤제리스 SB 덩크 로우 청키 덩키 (스페셜 박스)",
+    "aiEstimatedPrice": 2020000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Ben & Jerry's SB Dunk Low Chunky Dunky (Special Box)",
+    "purchasePrice": 1350000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTk3/MDAxNjAzMzMzOTYzMzY4.0I0gNTV1mZINYVDMdwX4R7h14J08VPw6nXBa2b7d_eMg.6rpGNsRfLCvJO4YCpEqkTvAEOz4vlCRg_M1fju7azwUg.PNG/p_24807_0_ef6651af72cc4e829abea6a6647e7569.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTk3/MDAxNjAzMzMzOTkxOTc3._t-ZF86F7eMpi9gIFfo5YpeO9hosjEKzTllTQWTdR1cg.61mOcJ7PAuO57RlGKstK6Ny-KTrl8C2Y8dvZikMCOPcg.PNG/p_23950_0_b0fe0f5283274791b7c937a334939397.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 오프화이트 레트로 하이 시카고 더 텐",
+    "aiEstimatedPrice": 3890000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Jordan 1 x Off-White Retro High Chicago The Ten",
+    "purchasePrice": 2590000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjUz/MDAxNjAzMzMzOTM4NTIz.AB_iXxAQfk_EQTBq8QJNr3901qWPAuhG3xpRPCLw5Osg.9eE6E_6SgXAWg08qw9HjNIFQdpIpaLI9_SU5Y7wksJkg.PNG/p_11274_0_9cf1cedd81d846bbbbdf7ab94d898210.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjU1/MDAxNjAzMzMzOTQ3NTcx.b5nf_bs5FtJ4HcgMHMdvS7G-fQu7J9SoBvHUD_ZgXswg.B4i5AmYektYS5dcW9zSPyGVV188GFbU61OUpChIpbxog.PNG/p_15538_0_6486244ec42c4f189fe9bbae65289cc0.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 오프화이트 에어포스 1 로우 '07 모마",
+    "aiEstimatedPrice": 7420000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike x Off-White Air Force 1 Low '07 MoMA",
+    "purchasePrice": 4950000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjYx/MDAxNjAzMzM0MDE2MTM2.ksZby26XuB8ZkM0LoS7DVSmICRqFv7Cbe548a15acm8g.ma4fX9BR2kSav5gaQMcXD5zXkL8bvdO7CYosXR6KCvAg.PNG/p_25894_0_eb94888c8b7b4de8a639a7d1fae4c428.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA3MTNfMTQw/MDAxNjI2MTQ0MTIzNTQ0.ZP8FuRjaJDVMx9SPT-e4opiamLzOUMH6uD1Iley8D5cg.b_tkDNkxnM1R-HgL2zTh14PUimGzT6hTfH3OrJJZB3og.PNG/p_0605a1512a2d47beafb62e877f3ea357.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 톰 삭스 마스야드 슈 1.0 스페이스 캠프",
+    "aiEstimatedPrice": 17700000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x Tom Sachs Mars Yard Shoe 1.0 Space Camp",
+    "purchasePrice": 11800000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTU3/MDAxNjAzMzMzOTQ0NDU1.fm4iesdx3W2U509TsBB5vLyxQZTNEPgL5EjTiuhxXRog.2mFQeN6yIaMOMtaT-Ir1A3FpJimn-uRfIlrDQh84XP8g.PNG/p_2719_0_4ad1a3f5bfd145fbb1ef533dd1e4fbe6.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTcz/MDAxNjAzMzMzOTM2MzU0.2skbG5lojj6rN-jbRhs7PA1TBR-jzHLrkRDd8Jf91NQg.3hoNr806rGhi9f4658Zlf-iHtQQ1cRdcc6X8tuRCc_Ag.PNG/p_10482_0_31bcc574daca4f799e13452664514de2.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 트래비스 스캇 에어포스 1 로우 세일",
+    "aiEstimatedPrice": 1270000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Travis Scott Air Force 1 Low Sail",
+    "purchasePrice": 850000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTAx/MDAxNjAzMzMzOTMxMjk0.fo6XGkotTL9vnqrVr5abbzC3WtnYcwxqnu31yYfQ4-4g.4CftAcUu1h5QEj947dgRlGDaSgpBsZPS57JgkTycOMkg.PNG/p_16230_0_8459cd520b8a4652a54d9c46ed02f335.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTYg/MDAxNjAzMzMzOTM4ODUz._lYMMKcEBlWE-5oXtd7DqpYuyFtoyLC_UKDDTEioqJAg.Ud0wrxIk782sg8ZwWZ4XWus2rI1ugl9WfLeYJahvuKMg.PNG/p_12332_0_4a3d48e487114c11a1ece98934e75008.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 그레이트풀 데드 SB 덩크 로우 오렌지 베어",
+    "aiEstimatedPrice": 5130000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike x Grateful Dead SB Dunk Low Orange Bear",
+    "purchasePrice": 3420000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjI3/MDAxNjAzMzM0MDAzMjA5.9hZs3Hpptmk5yPF3oVCv0sIVU5KW4fq29kY-jGCzHaYg.9kl5wWk2hP8ZTYxbjNlOSUfBV0ZVrJ6FRI556DROAcYg.PNG/p_24819_0_285aea6278324a0aba62888adac8a7ae.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNiAg/MDAxNjAzMzMzOTkxMDk5.wGAqZoa8lB6JJVRJV1tG58-SN7BMM5161zCqWsH-alcg.CjllVttHWO719PUPZ7Akx7PrZABWjZM8_SWYc1tCLB0g.PNG/p_24820_0_383ccb323a6b406faf99fe235ddc8527.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 사보타지 덩크 SB 로우",
+    "aiEstimatedPrice": 3440000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike x SBTG Dunk SB Low",
+    "purchasePrice": 2290000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMzkg/MDAxNjAzMzMzOTM0Nzkz.ymHQLMbaXvigR-sJxleELqejBi7m6voH5-8ohnfnLygg.FYzVojxOCIG-_ZVWj-I9Xf2ipj4o7-siXlZrGvh9fqMg.PNG/p_920_0_531b82b670304006811bcd40bab9b092.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAzMDJfMjUw/MDAxNjE0NjUyNzMxNTU2.jQlpMRYLx_dNGm2Dr_HKo5miKOHg9Be7twmFRBgMEUMg.L7JNPDgISRtH0190SIGnYsj66Fr9RDFCWQ9j9rwDkTUg.PNG/p_4357d31c634740058acfff83812282f8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 트래비스 스캇 x 프라그먼트 레트로 하이 OG SP 밀리터리 블루",
+    "aiEstimatedPrice": 1420000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 x Travis Scott x Fragment Retro High OG SP Military Blue",
+    "purchasePrice": 950000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA3MTZfMjcx/MDAxNjI2NDEwNDgxMjkx.HQE0bYm0PhULK7tI2HUZNoVVWCheye4l5NApsRAcd_Mg.NNc3vDX6pg0Z_-EvpeI_oHFQba5H_GNXHKvm-BjgfzQg.PNG/p_b6ae438a8eb64641825dd5d2c0b7897b.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTY2/MDAxNjAzMzMzOTc0MTM4.5MTApr9F58E31hV0gjHVnNRt8n0fFo8ljYKJ0cmOYmog.wTZD_fVwfvBTckZ6LqD0gz_ldEqgsyIhYy6r9lVT8gEg.PNG/p_20501_0_c810eccf2c6c49338e23015d39341373.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 트래비스 스캇 에어포스 1 로우 화이트",
+    "aiEstimatedPrice": 1870000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x Travis Scott Air Force 1 Low White",
+    "purchasePrice": 1240000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTYg/MDAxNjAzMzMzOTM4ODUz._lYMMKcEBlWE-5oXtd7DqpYuyFtoyLC_UKDDTEioqJAg.Ud0wrxIk782sg8ZwWZ4XWus2rI1ugl9WfLeYJahvuKMg.PNG/p_12332_0_4a3d48e487114c11a1ece98934e75008.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTAx/MDAxNjAzMzMzOTMxMjk0.fo6XGkotTL9vnqrVr5abbzC3WtnYcwxqnu31yYfQ4-4g.4CftAcUu1h5QEj947dgRlGDaSgpBsZPS57JgkTycOMkg.PNG/p_16230_0_8459cd520b8a4652a54d9c46ed02f335.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 오프화이트 에어맥스 90 OG 더 텐",
+    "aiEstimatedPrice": 3600000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike x Off-White Air Max 90 The Ten",
+    "purchasePrice": 2400000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjI4/MDAxNjAzMzMzOTM3OTQ2.E4XRBxFEtHrMIpui82xsjLAVxTPvYDr88nlPnPFSx5sg.bqxMwje_eIkU0epN6C3QsPw7gprV8whlo0qFYbvIVP4g.PNG/p_11287_0_75f750b818c04bb185493c1754eaf75c.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTUw/MDAxNjAzMzMzOTUxNDUx.ok25E10C0ynD2XjBwyN71VRKKiuDvD6TfvMcUcpzbPUg.iEGmRR5ax3BXackmaRsj6Dg8xAoWywldPlK2ShM6OUYg.PNG/p_19104_0_c46c68454b4940b8b3ebe30e352ea342.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 오프화이트 레트로 하이 유니버시티 블루",
+    "aiEstimatedPrice": 1120000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Jordan 1 x Off-White Retro High University Blue",
+    "purchasePrice": 750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjU1/MDAxNjAzMzMzOTQ3NTcx.b5nf_bs5FtJ4HcgMHMdvS7G-fQu7J9SoBvHUD_ZgXswg.B4i5AmYektYS5dcW9zSPyGVV188GFbU61OUpChIpbxog.PNG/p_15538_0_6486244ec42c4f189fe9bbae65289cc0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjQ1/MDAxNjAzMzMzOTUwMzI1._-_JeXtWTfs7HqqJ024_CNQihKTa_0Jb0ixQAXJ49hIg.oW0TSyYlwzK8k-p2VUrSyTfgiXRMaq8UaW92VRP7Fd8g.PNG/p_14211_0_ee342343d11446deac1948b892a58720.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 프라그먼트 레트로 하이 OG",
+    "aiEstimatedPrice": 2170000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 x Fragment Retro High OG",
+    "purchasePrice": 1440000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjgw/MDAxNjAzMzMzOTM3OTYw.-ag1NIBLqOYg0u_NVaPUhNTsMOsaK7RRTatjzQHm99wg.VjjmT5FgRsSwfs5RmtfjG6olqB-ob1_Hg516CoTeBa4g.PNG/p_4807_0_7f0aeccad302434f896296aafd60c920.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMThfMjcy/MDAxNzM5ODQzNDQ2ODI4.5yzY3Yzig_IXYBO8j05rUq87WoO-6bXAYJVpCUf3N_8g.cTk41svUypnN5w-F4k5dXXyKIbvT41LHSmG7S3MtCtwg.PNG/a_588842ef091547e0b886103ed7670f51.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "(GS) 조던 1 x 오프화이트 레트로 하이 화이트",
+    "aiEstimatedPrice": 1870000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(GS) Jordan 1 x Off-White Retro High White",
+    "purchasePrice": 1250000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTk2/MDAxNjAzMzMzOTQzNzM4.aBBIWWwKYgcy4O30xCLFmNRYP87MiOU5C2hgnB80xcsg.0mbvrI0iYkB9zZhPh_Efoup9bufAaCvKDa9dkecaj7Yg.PNG/p_14214_0_c8aff9bdb1274370aa4074906867ad50.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjA1MTFfNzkg/MDAxNjUyMjMxMjM4NzEw.uOEA2krnH0qrB9TGwdgCOyXSxXaabZt7r9tn22XHvvEg.W_siWT81gFbqgs-U0T_v3mQCLDMV7jQznguj2zzxn9wg.PNG/a_8bd47fded15e444faa405cfcd9dcfe18.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "메종 미하라 야스히로 피터슨 OG 솔 오버다이드 캔버스 로우탑 스니커즈 레드",
+    "aiEstimatedPrice": 12750000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Maison Mihara Yasuhiro Peterson OG Sole OD Canvas Low-top Sneakers Red",
+    "purchasePrice": 8500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTEwMDdfMjEz/MDAxNjMzNTk2NzE4NDIx.Qqkkme5v5xVg0ALqKJ6BXIroimpBvkG4W_HcQZqW_Pkg.SxJ1IOVRfTWkdAWz2_mMExxv3ydOpARSRgkIazNXqI0g.PNG/a_c32194cde71349bf96e5260c779a0d4b.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTEwMTVfMTI4/MDAxNjM0Mjc4OTQ3NTY4.tp_tXOJmN-1Qr1Q97zEPGQkIiFFSP1lsuaRkThau1Vsg.dFcxievfr_ADYADypRCv4dXZnQXrOkPa0sx9EpM9NlMg.PNG/a_0b86c9e2f095424fbd6fdf750e0406af.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 오프화이트 에어포스 1 로우 브루클린",
+    "aiEstimatedPrice": 1700000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Off-White Air Force 1 Low Brooklyn",
+    "purchasePrice": 1130000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjA5MTNfMzYg/MDAxNjYzMDQ0MzI5ODI3.6ltIrjtj4WD5nARaYo6aXc26G9E-wW4BmOjHtfb6tdUg.AEYNMFkbR9AJ4-JNhRoAzcMUe3Zh1SwhByWv5akPrLcg.PNG/a_5ff33ca70f094a2e9c594af58e7a748b.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNTUg/MDAxNjAzMzMzOTUxNDQw.L5p86SQEQMuqSKX_baM-1uJ2Bz8RANBWg9yEEX4z0X4g.-XeSHzRpaIxKvUQq3OfURzxwvzxLpd_PA2o_4oFB0AMg.PNG/p_18118_0_422907bdcc3140b19fb660ae1edca5de.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 오프화이트 레트로 하이 화이트",
+    "aiEstimatedPrice": 6750000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Jordan 1 x Off-White Retro High White",
+    "purchasePrice": 4500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjQ1/MDAxNjAzMzMzOTUwMzI1._-_JeXtWTfs7HqqJ024_CNQihKTa_0Jb0ixQAXJ49hIg.oW0TSyYlwzK8k-p2VUrSyTfgiXRMaq8UaW92VRP7Fd8g.PNG/p_14211_0_ee342343d11446deac1948b892a58720.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjU1/MDAxNjAzMzMzOTQ3NTcx.b5nf_bs5FtJ4HcgMHMdvS7G-fQu7J9SoBvHUD_ZgXswg.B4i5AmYektYS5dcW9zSPyGVV188GFbU61OUpChIpbxog.PNG/p_15538_0_6486244ec42c4f189fe9bbae65289cc0.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 트래비스 스캇 레트로 로우 OG SP 세일 앤 리저록",
+    "aiEstimatedPrice": 1120000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 x Travis Scott Retro Low OG SP Sail and Ridgerock",
+    "purchasePrice": 750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA0MDhfMTEz/MDAxNzQ0MDc2OTk5NTU0.GJKUTZC8qYxpNDhQ-z1sjjGDFAeo2Aa-vEso-lnv_U8g.VoQQ64BtZmAF85oZUoFtJQSZegU1oIzSWSGie8kFffsg.PNG/a_3ac62ed6639a48aba5f44d80fdb841c3.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjEyMDlfMTI0/MDAxNjcwNTQ4NzQyNzk3.Px0qT3VShoOMKmYDIiXG75J0c8Ni_cCdp05A4kIJq2kg.EI3Es1WjT-AhvHobv-xS4YMIb9JtXFKT9OKBHWR4iTkg.PNG/a_93b9ac42ab784d03a526a10b26ddcb26.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "반스 볼트 x 피어 오브 갓 OG 에라 95 DX 화이트 블랙",
+    "aiEstimatedPrice": 9000000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Vans Vault x Fear of God OG Era 95 DX White Black",
+    "purchasePrice": 6000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfOCAg/MDAxNjAzMzMzOTMxNzU5.bS5Qs88CkkaGUbs6p16nA21sI89mN9b__zG-Xi-Xy0Ug.oYlZE4Niahl_f7gzPUtfQhPSaFspy7So3vg-NZL2MZYg.PNG/p_12153_0_a4a37fab2c8941dd95803c320e3c85c0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjQ4/MDAxNjAzMzMzOTI4MTcz.gnBKGyFAQsr-WzAiI9BRCCQ6hjT8r2-pOMBZALt4clcg.xfxuVbVYVufYN49D-UTqY7ajiul9iZYSEBn727Yr1QYg.PNG/p_12152_0_25d9f2918cc347e68d1323fd53d7b096.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 레트로 하이 씽크 16 (패스 더 토치)",
+    "aiEstimatedPrice": 1870000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Jordan 1 Retro High Think 16 (Pass the Torch)",
+    "purchasePrice": 1250000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTY3/MDAxNjAzMzMzOTM3MDcx.ows7qo2g1CJJG4FfSq6u3WH_mRTebvjeNwaDXM7WFj0g.2GapIPbx5kNiAMgBZ7HscsE_X0a4WK_R3xBLC1Ns0s4g.PNG/p_14895_0_a1cfb32be8634e9e8105cd4b393289b0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA5MTRfOTkg/MDAxNjMxNjA0MDc5MzY0.4JTs96mFG1qo8FroVqWSzpt7O4Kf7Wd-i97xg5n4x8Yg.ZTATdysJO63ZOkSoIHsu6m9HH0hIzZo0Ke2WZJBsC8Mg.PNG/a_b48712f52531461184a19d78fd56eb18.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 트래비스 스캇 SB 덩크 로우 (스페셜 박스)",
+    "aiEstimatedPrice": 1490000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x Travis Scott SB Dunk Low (Special Box)",
+    "purchasePrice": 990000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMSAg/MDAxNzQyMzY3NjI4ODQ5.KqWA3mB2IqITKBFXoSQLAuM0e9dqkvuYGOPRA14t0DMg.SgdiCKa6a4vNzIPHDV9tE4mz73Jf0iupbB7rPMLjVbcg.PNG/a_3cb1178002234edcadb61e331044a9d0.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTM2/MDAxNzQyMzcwMzcwMTA2.79QE88BeKcXvU5oSRF7OoJcx7utIHp67X4Xatp1vfd0g.sqDpH88DCUR983t3JN13Vz8rWCPzxKJQ6lCKKqLh6Lgg.PNG/a_ab03b49fe4ec4655801ee91a14cf706c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 피스마이너스원 에어포스 1 로우 파라노이즈 - 한국 한정",
+    "aiEstimatedPrice": 1490000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Peaceminusone Air Force 1 Low Para-Noise - Korea Exclusive",
+    "purchasePrice": 990000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA4MTNfMjUg/MDAxNjI4ODM3NDU2NDYz.2DdPwyBvUYkxi-I-M2y-YtAoNOiKEaJ3eDHO_kkhKysg.4Hp97g4Cqf6oJdAD4byqMZKitqSHxpg1mBeNM9nqVnEg.PNG/a_66d39d1da78b45f0b585670ee5c3b554.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNDA5MDlfMjcy/MDAxNzI1ODY2Nzc2OTIw.WlkOM8-jzdkM7gUxxG6WOxCpai9e15erDUNWMjkbMZsg.e7blOoElAAcRxerrgDD3Xc1pLWeefS56e92hbAyu_HEg.PNG/a_97ac995e954f4059a10be249349a96b6.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 트로피 룸 레트로 하이 OG SP 시카고 (프렌즈 앤 패밀리)",
+    "aiEstimatedPrice": 1350000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 x Trophy Room Retro High OG SP Chicago (Friends & Family)",
+    "purchasePrice": 900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAyMjJfMTYg/MDAxNjEzOTczNTY2NjE3.vGEfzKlXQoatURC-cJKvecu4Gh1YagJ4BIe-pHE4oWIg.-LARgVjVvJQ_fUtUx13jih8GGGPVCRr2TyZfJoI34_sg.PNG/p_9fa9627758db42dbb42995575bd38eef.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAyMDlfMjg0/MDAxNjEyODM1MDUzMjE5.kyfTQbtyhpTqAFf470MaEFTnHqK3UtfV-nYq-1fo6Iwg.q_RNbq9UKkWSOT6vPY3vhhVJShvgKoYSnXwLdj5sQ4Mg.PNG/p_82c7f8f5a4134531872e19a1a15c0974.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 오프화이트 에어맥스 97 OG 더 텐",
+    "aiEstimatedPrice": 1120000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike x Off-White Air Max 97 OG The Ten",
+    "purchasePrice": 750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTk1/MDAxNjAzMzMzOTI2MDcw.4cuGruNheYrOL2Sksatp0Qy5QaJeekdRELV0ES3PscQg.hLRoV8sviS1TL8WeUT4s_P94vv83UeLW2R-1dqZsNscg.PNG/p_11881_0_48870e14a6704fb38079f8de1ab1dd89.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMzAw/MDAxNjAzMzMzOTUwODkz.RjgngwyNIx_5BWB6VO923XFPpt6goLx9aRnEkqpMns8g.Axm3nJSfSJNQBwHQfK5EHELx8jDBDiwQfcSDLvRpsqgg.PNG/p_11284_0_f82817cceed344a39357797bcf7dc8a1.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 4 x 카우스 레트로 쿨 그레이",
+    "aiEstimatedPrice": 2540000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Jordan 4 x Kaws Retro Cool Grey",
+    "purchasePrice": 1690000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNjIg/MDAxNjAzMzMzOTUyODky.Mkxw93DfvZjkI1YWBhLCyawizxwkn1aSt9u6isJYkzgg.d69oF0H8TTcBfEwIy5CK3SqFWG0E7uQ7G11Rr_fNvrYg.PNG/p_9866_0_c91ad48469c64ee88b342208f014d1c2.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTgz/MDAxNjAzMzM0MDEwMDMy.WBHd-H-5j0VzFp4I3e4HjT3EjgPiEb6TYyaJpkgNRgUg._5qc8qBDGxHJKGeOmhA0g-ZuV9AvEnG3j63d4ca5lbog.PNG/p_25475_0_4e065773530e4533b2c39da2e273299e.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 레트로 하이 낫 포 리세일 바시티 메이즈",
+    "aiEstimatedPrice": 1120000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 1 Retro High Not for Resale Varsity Maize",
+    "purchasePrice": 750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTE5/MDAxNjAzMzMzOTQ3MDYy.RkWz8jFJ8Rar7LdUrSYwi84YdoCKgAQBHTXg7N7HdWAg.T-_ff2gNxgJDwFtND0PF7y1abUambuG7hyMYGXYZ4Bgg.PNG/p_17576_0_c8c871e0c3c343f292b1674e3e7ebaa1.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTIx/MDAxNjAzMzMzOTQ0NTky.trb5-BFuBsoFQ0QsCAhPG98uRgJ3bMhi1W75FkPAYJEg.bReeMC-cBBBAepPDXNgOoQeZO81WlhVoNMq4J1Fv1IIg.PNG/p_13902_0_33979d5bbcdd4ba7a2f2b706ee1451b3.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "뉴발란스 x 더블탭스 992 메이드 인 USA 올리브",
+    "aiEstimatedPrice": 2240000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "New Balance x WTAPS 992 Made in USA Olive",
+    "purchasePrice": 1490000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjg4/MDAxNjAzMzMzOTcwOTUz.1gx_aMJuGC7T2THch19LNSqFL6YgCBTciq_6R865l4Ug.WaU0erxncgkmfe9qNbJCpLLDt7HNsU6zLsEIa6mJ9Uwg.PNG/p_24097_0_025bdb1657524579bc6313e97eac3f24.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMjBfNjQg/MDAxNzQyNDQ3MTM3NDAz.52lXMrNoz1Fn9eC9N6tIHH85gruF6fCujtcRjYgRd7kg.JwQ2aczXu_hnalVNA0znoXU6XMcRzQL8UqLzHT6beQog.PNG/a_501fc31eddc742229a56505257a1165e.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 4 레트로 도언베커",
+    "aiEstimatedPrice": 6370000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Jordan 4 Retro Doernbecher",
+    "purchasePrice": 4250000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTc2/MDAxNjAzMzMzOTI1MTkz.MYfMRRhDj3f0mYJdaaCbUhtP5iJDdxBdsKa1MFWWPDwg.b3PRtQ4akrM3UZupPV2TEsTIj_tjcRbzZWdA2MqV-osg.PNG/p_2491_0_3ceb8624b5e24cc195ddd6a5d92f88ad.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTg4/MDAxNjAzMzMzOTQwOTE5.awICIm0RH0HxuyZC0VknHiRHpfGv39q9-Rbf79viZ7Ag.HywN0EFFPzho6dCjVyyjBGE5snO97eTbqECHW5xkIqog.PNG/p_2821_0_2935eab26c684e05aa2aa6988fa81ac2.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 카시나 덩크 로우 로드 사인 - 카시나 한정",
+    "aiEstimatedPrice": 330000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x Kasina Dunk Low Road Sign - Kasina Exclusive",
+    "purchasePrice": 220000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjAx/MDAxNjAzMzMzOTg3OTA3.CuqAt7xlU86bFkJtPypP9Slk_grYp5UVNErT2KpkIJkg.FWhET_BVQb7hVqj4cEPpNcBIykW0Z3nf5Mja0IDijbYg.PNG/p_25585_0_12658cba38f34b88b7fe005ef5e9e7af.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjgg/MDAxNjAzMzM0MDA0ODUw.52YXDXKOUAffFu4TfJGfr2UB8Zxk_oGU_Z4w3T7jgP4g.PDmRd-e8FJ2jvBexlGKTTt5meHupbE75BUK7qQy6Gp8g.PNG/p_25586_0_524396aae01945f8a26e0f280e5b8fe8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "아디다스 X 스피드포탈 레옌다.1 FG 골드 메탈릭",
+    "aiEstimatedPrice": 1120000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Adidas X Speedportal Leyenda.1 FG Gold Metallic",
+    "purchasePrice": 750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjExMjRfMTYz/MDAxNjY5MjcxMDk0MzQ3.igMGQGj_6O4OpkQUw461KJECk6YmCnRcUOfgbc8K1YAg.PiEUOZbCGtWPH5HNrHjO6qvU4GPdoWVeiWLPe4oc2QYg.PNG/a_701bda4aabeb4a1ea6c95179560ad97d.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNDEwMDhfMjc3/MDAxNzI4MzQ5NTc5MTQ4.bvd2WgkL-oQdX6wtYaiJJ9ylnLm1ivwxFE_yFxGC2_sg.-mbbMoELHHTGW2q2vP9E8-fgUGGHh-Ohek6MTsM4CtEg.PNG/a_c9cc8aed9127405e94c45cc11e0b81c7.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 아트모스 에어맥스 1 엘리펀트 2017",
+    "aiEstimatedPrice": 550000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "NIke x Atmos Air Max 1 Elephant 2017",
+    "purchasePrice": 360000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjcw/MDAxNjAzMzMzOTUyNDIw.OH6lOa7rPdqCpHvD60KS559oCgODDzjs8OTMqK27e_og.DDHXIFG4FHHWVWy3hsRwPGNjrF0hCGvjbZyvBoLcQL4g.PNG/p_9802_0_e6d154879ed54943b0a3c4e7c6da2ada.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAzMjRfODcg/MDAxNjE2NTg2MjgzMTYz.ajDqA7RsW-duzYoSh3-5Fr1IfqzDBaExcHBFrovVAZMg.wtg74dbpW8Y01LfvqVyrVHmf_QLJOAB3LjE0u-RIfw0g.PNG/p_8598bac48a5c4c2aa19a35a80b4f039f.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 오프화이트 덩크 로우 더 50 - 로트 5",
+    "aiEstimatedPrice": 3750000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Off-White Dunk Low The 50 - Lot 5",
+    "purchasePrice": 2500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjAzMjJfOTMg/MDAxNjQ3OTE3NzkxOTg3.eOaYa00hFLacKosMEE6idXvqy6E3xagTIFZ6eMKFZ6wg.P-jcUsme2HXEUmbjPZExOwGR2nVZ8ayw07n7Ssx9p5Ig.PNG/a_75d84fc1c5c943faaf34d66b0d6cb6b9.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA4MjRfMjEx/MDAxNjI5NzczNDczMjI3.RUZ5oeFNtD0052sucP7P8aUyTw_AFeKkBVYVbMPJpX0g.PJH6-Clk_Ygf9_pvB8dOaqP-q-KeaFJj03vLFbP5ARUg.PNG/a_cd0b68454a4b468794b92b75272b2210.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "아디다스 이지 부스트 750 OG 라이트 브라운",
+    "aiEstimatedPrice": 3750000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Adidas Yeezy Boost 750 OG Light Brown",
+    "purchasePrice": 2500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMzcg/MDAxNjAzMzMzOTM1NDEz.FzXM7jjgrvbtlBxDU3TLDT4o4srAYAo4p35_Wa-qliMg.EX8LjRGZA5XgLJAs-oXTiN5I1-F2tANTYhAmshwEHpQg.PNG/p_5066_0_037d7b82dabd49d5a0b296fd02947ad5.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTYw/MDAxNjAzMzMzOTUzNTIx.9UMaW5Ga0O-oMQ12wQD-y5hOiCVRNetYC2XLDPxE1C0g.5T5xM-zd9mJmmw0Il70qrkSZFcW3Os9aKK-7hObfea4g.PNG/p_6030_0_b4655dd0fa8a4cd998da218c0c9f28a6.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 코비 애스톤 마틴 팩",
+    "aiEstimatedPrice": 45000000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Nike Kobe Aston Martin Pack",
+    "purchasePrice": 30000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjQx/MDAxNjAzMzMzOTQ4MzYx.zq4mFIOvMx7TvbtFt25-fnOhy4C-qBC9qA4cKiZsMlUg.krMrO-7jeu6lqJxjbHxe3ALhn-dbVcXvvm0jlROK7XUg.PNG/p_6977_0_97a8fe478aeb4a6ebc82ae5739e8ca90.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfNzQg/MDAxNjAzMzMzOTUzMjc2.ZUBmCdjJM7JLL8cnFqWxjrQApQYfoOE869ViZgXeFsUg.7vKj0KMxkG4UUfcQTvki9dEdT1ZGjxwQkFVh4t2evusg.PNG/p_6978_0_00fc65f1d79840d096b6f30b980dc49a.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 3 x 나이키 에어맥스 1 아트모스 사파리 팩",
+    "aiEstimatedPrice": 900000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Jordan 3 x Nike Air Max 1 Atmos Safari Pack",
+    "purchasePrice": 600000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAyMDNfNjUg/MDAxNjEyMzUwNzQxMzAw.TLOaeBAHBk0wvKH0u5VwZL63g4cOmSuAUS712hJGR4og.S-No3KAqHy3AiNJ9GdlPdbrlF2yNSGEAWNKkR4hgG2Ig.PNG/p_2907a07e9cb94a75be37b2ac5456bbde.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTY2/MDAxNjAzMzMzOTQxMzA1.ZtXQaNt8-yvapwp2OX3j8MI_kqRRC60SkowWxEdMU_og.DtNChw7q3MP4dB2CDk-2s6Hia8cPT6i0aQeI_z78ZN8g.PNG/p_16264_0_a95cf3f29ec94894a9d527820242393f.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 슈프림 SB 덩크 로우 블랙",
+    "aiEstimatedPrice": 360000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Nike x Supreme SB Dunk Low Black",
+    "purchasePrice": 240000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAzMDJfMjUw/MDAxNjE0NjUyNzMxNTU2.jQlpMRYLx_dNGm2Dr_HKo5miKOHg9Be7twmFRBgMEUMg.L7JNPDgISRtH0190SIGnYsj66Fr9RDFCWQ9j9rwDkTUg.PNG/p_4357d31c634740058acfff83812282f8.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTAzMDJfMTcy/MDAxNjE0NjUyODc4OTQ1.IVXA_MhoJKFzYKvgAuOfi8xz6_dnc4hK0KoqkPIMz2Eg.kHPY34kDcABnJsLJ91cmkUpmXybpswzM1hktStLAYecg.PNG/p_9103a04e0ea049e5894a40dd3d807915.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "나이키 x 사카이 x 장 폴 고티에 LD베이퍼와플 믹스 로우 화이트 세일",
+    "aiEstimatedPrice": 1050000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Nike x Sacai x Jean Paul Gaultier LDVaporWaffle Mix Low White Sail",
+    "purchasePrice": 700000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMzExMjJfMTIy/MDAxNzAwNjIxMjMyNjMz.pI575uSihjQIgoJiyJGkEUTaTjWJN_zZ-MVl1G7sDkwg.pqZB9LW6EDsL9ZH4_YcSrgtXRC38IuQ4nLYqUVo9pFkg.PNG/a_3f3230b108884d49b28bab820e097692.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMzExMTdfMjYw/MDAxNzAwMTg3MTk3OTQx.TnWoMf-dUrOeCj7rDcfsV-OMx5SSfQsPJYg14y_8tQQg.tCbzphOdEWDP-Ti2eQ7UhguaWBZBmR6wR04C_SP-uRQg.PNG/a_e18c1bc512e44b558dbc72f3cc48890c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "루이비통 x 나이키 에어포스 1 로우 바이 버질 아블로 멧 실버 블랙",
+    "aiEstimatedPrice": 9000000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Louis Vuitton x Nike Air Force 1 Low by Virgil Abloh Met Silver Black",
+    "purchasePrice": 6000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjA4MDNfOTkg/MDAxNjU5NTA4MjQ1OTc4.7z6fNPIjlWrEjDzNyAJtXbtl5N4fGsaYYfbzA1CleHYg.78ns61J3IcymXF3Obk7kfi2hLhwtqvAMYgEBG2mBUU0g.PNG/a_1fb87615065543a2a4e41a9d899c404e.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjA3MjZfMTc1/MDAxNjU4ODEwNzE3MDAz.zgupJkasIETnHDAcCAhQcDBmYseEoioDQQPUHIzG7TUg.6Opw6eTwuUEc320j8BFvm_cFNZy-fxKPRgQ3YkGAAJEg.PNG/a_dfdd8373455c4a1f8259b51f7565fa54.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 4 x 카우스 레트로 블랙",
+    "aiEstimatedPrice": 1790000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Jordan 4 x Kaws Retro Black",
+    "purchasePrice": 1190000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTI3/MDAxNjAzMzMzOTI2NTg1.t7gLb1rwR8zwNOlagscBcmfHW21FmvZci0XYKNPx7ckg.E5fdyA-pJHJX9QmgNJ84fPoMom__EP0mSxM6kql0Xjkg.PNG/p_12220_0_c3dc665c033f4f0291828db7aa7fc3e8.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTgz/MDAxNjAzMzM0MDEwMDMy.WBHd-H-5j0VzFp4I3e4HjT3EjgPiEb6TYyaJpkgNRgUg._5qc8qBDGxHJKGeOmhA0g-ZuV9AvEnG3j63d4ca5lbog.PNG/p_25475_0_4e065773530e4533b2c39da2e273299e.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "아식스 x JJJ자운드 젤 카야노 14 실버 화이트",
+    "aiEstimatedPrice": 420000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Asics x JJJJound Gel-Kayano 14 Silver White",
+    "purchasePrice": 280000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMjA4MDJfMTg4/MDAxNjU5NDI4MzQ2OTky.hGPtTfVlKAJ5iEm5oWAwMfCEgJdXf73nT79JQzwKWkog.X25yQGW5Hc6Isakayfu8NUWUemyjsDsvyiHJpRdCS5og.PNG/a_e8009a058bab407a86666271010aa426.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA2MDlfMTE2/MDAxNzQ5NDQwOTg2ODc2.QEVwNthVJ1kD0ikQP2_YZUzFaA_4ePDd1bMsh7UPbIQg.cXsAvwtXaZsz96Wzzx_dHpDWCIOgaeOAc4LU5wGt5OAg.PNG/a_0b7ca4db7b3f48bfaa89f18f9bac457c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "조던 1 x 디올 로우 OG",
+    "aiEstimatedPrice": 5850000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Jordan 1 x Dior Low OG",
+    "purchasePrice": 3900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTE1/MDAxNjAzMzMzOTU5NDcz.tXAPdpzGubiz8PuGrBfKsJvz742rw8UMe89nXyzJzPIg._17znm4UvONO1BdeDIOpe6_DsTQ8WxcVIZc0hWgtbYcg.PNG/p_23811_0_5933ec62cce2499ab1bceb30c4d34006.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMTA4MzBfNjAg/MDAxNjMwMjg5NDUwNTA5.X7SnPN6FG_lknViWHtGgchgVmqunSFYjM2L0UExqmcEg.TIJrISDnp_v7s3xAzqcL4Ustg1wjv5x56uIfUQIBUuUg.PNG/a_4d1dac08ba194ac8a3c3c916e4bcd3e9.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "뉴발란스 x JJJ자운드 992 메이드 인 USA 모시 그린",
+    "aiEstimatedPrice": 440000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "New Balance x JJJJound 992 Made in USA Mossy Green",
+    "purchasePrice": 290000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMjUz/MDAxNjAzMzMzOTg5ODk1.1qKWDNgy8mB8B_KG9MH93yw8VelRAOvpzrzHzYTLHNUg.I3grnaiVPOj5Ze4lC3z9b_m7uDsRcBkPUYpOlqocI2Eg.PNG/p_25016_0_210651910c734a43842ed1c9ad663e34.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyMDEwMjJfMTA5/MDAxNjAzMzM0MDAwMTA1.iIdjM12_HfRHifRI1QA141u0G24zUAltmcTGjXPzHOgg.m86nVRPePEdWsFMKi8khKY9UtgqTNjUnZNRI4UxoyA8g.PNG/p_25015_0_7d59f7fa973d47ee8decca09767530b4.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 1,
+      "categoryName": "패션"
+    },
+    "subCategory": {
+      "categoryId": 2,
+      "categoryName": "명품 신발"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티프 옐로우 골드 오닉스",
+    "aiEstimatedPrice": 5240000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs Yellow Gold Onyx",
+    "purchasePrice": 3490000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTY3/MDAxNzQxMDQ4NDA2OTU1.sSA1rN6l0xHCHg0W8WZ8Vcp5x5QS9n2GFQu9JdKyoR4g.TbkvkgNn5IDJMXNGY-1hW2v4R3eKz73M67biRkS8VFgg.PNG/a_eb20b38920134f1580b129b5bf7c5ade.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 샤넬 코코 크러쉬 이어링 퀼티드 모티프 & 18K 베이지 골드",
+    "aiEstimatedPrice": 3740000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "(W) Chanel Coco Crush Earrings Quilted Motif & 18K Beige Gold",
+    "purchasePrice": 2490000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMTQ3/MDAxNzQxMzM3MjEyOTUw.loEUxVo6ZSBL7Ivx4gFTrwXQN9_7VvvjUXCv_rEftsgg.qZ_whYFO5DybUFjd6GNFzwwh0SbmWqHLtMton1UT1UAg.PNG/a_5fe42c2def0e42d5bc3fcb20bf0295eb.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfNDAg/MDAxNzQxMzM3MjEyNzQ2.C9c7bZONxVWwrwce8l6fD5yIjPgz_hVjJcG_l_pBTRMg.3bieE3GHO1fhIVpu3Who8N2yM2_CUgFoYPoeXP9gkRsg.PNG/a_ebf3346abb9f4824a7159aea5222b3ee.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 스위트 알함브라 펜던트 화이트 골드 다이아몬드",
+    "aiEstimatedPrice": 4380000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(W) Van Cleef & Arpels Sweet Alhambra Pendant White Gold Diamond",
+    "purchasePrice": 2920000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjEx/MDAxNzQxMjUxNTExODU4.weD5dQ2XDr3QlZlSY5ZrLXwSOWRQRUokUT1QQPoXkRcg.wnkipqXLH1jsHOHJDVM8c6PVP5y4annbw_UV9JZNR_Ig.PNG/a_81fb1712e43d4d9d96230d0c894bdd8c.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTIw/MDAxNzQxMjUxNTQwMDU4.zp_tqS9OnYwVEJL69idmjHrw0Xz8ps2WQ6VpZPbADuYg.Jzp2a_f3VwGA-UnafLu8tLTyIjjlGoqMJT2eByM4eq8g.PNG/a_e0eecfd6d8af47a2a65c0019b2a394bc.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티프 옐로우 골드 마더 오브 펄",
+    "aiEstimatedPrice": 4950000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs Yellow Gold Mother of Pearl",
+    "purchasePrice": 3300000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTY3/MDAxNzQxMDQ4NDA2OTU1.sSA1rN6l0xHCHg0W8WZ8Vcp5x5QS9n2GFQu9JdKyoR4g.TbkvkgNn5IDJMXNGY-1hW2v4R3eKz73M67biRkS8VFgg.PNG/a_eb20b38920134f1580b129b5bf7c5ade.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티브 화이트 골드",
+    "aiEstimatedPrice": 8170000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs White Gold",
+    "purchasePrice": 5450000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjY1/MDAxNzQxMDQ4MjM1ODEy.shY3W25aMjYP3nbqRNyYhHfhBCoJZ34iOHvzInJAqxAg.pz-d7kH8Ea3WbuiplRLXcKl5kb20nU11ZNdoFDrewgcg.PNG/a_2241bcd898dc44a8a9f10948000fe559.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 기요세 옐로우 골드",
+    "aiEstimatedPrice": 4120000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Guilloche Yellow Gold",
+    "purchasePrice": 2750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTUg/MDAxNzQxMjUxNTUwNzMz.YXpQcZn2t90lABdqs1foJALsyQgrZ-wLutnV4DHYimwg.GONdAHci1Pz_jLH3p2_SwzP4LFkNbxwT8Cc4q9fyPB4g.PNG/a_b3619fb6dc31487e89e3d88a4dbb87fa.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjcg/MDAxNzQxMjUxMzc5MzM1.CQZwGwVDlSFPPF5cDK4qGtX-2rQnfCFhlPaXvot-VHAg.6LoyZc_0BJjlS5RvL_nAnpprgsMmRQZvBh6H7rP3ff0g.PNG/a_6c35d8345b1841ef8ff3e3c1dab4b7e8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 이어링 옐로우 골드 마더 오브 펄",
+    "aiEstimatedPrice": 4870000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Earrings Yellow Gold Mother of Pearl",
+    "purchasePrice": 3250000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMTc3/MDAxNzQxMzM3MjEwNjg0.rTcUwzyBoVxlQ7PjULK78cBBXz2b5G9cgUmt9RzLRKog.oBsEFj-EljBOMJE8g0pypUioC3F5j3Kn1wJz5l4YMusg.PNG/a_9850a5f2faf142b49eac2080f1973aa1.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfNTMg/MDAxNzQxMzM3MDY2NjA4.1I8Aqv7Wcq9ZPx_TntuJOeZcMbvvX_DrOmB-mql8yf8g.0zGDN7_MddgZwbpMNZC3nev3hzV9K_DBb80GQtGHD18g.PNG/a_267239ff606447a49540b28eaaa4bba0.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티프 옐로우 골드 커넬리언",
+    "aiEstimatedPrice": 5850000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs Yellow Gold Carnelian",
+    "purchasePrice": 3900000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjAx/MDAxNzQxMDQ4NDA2NTE4.f4Zq59kD-IFGImtdeblHd7D2e74QmXfGAbDcahgTkdgg.1h_l2lDnadldUhzdCKQ9mtOrfet_m5OE3ZSH79179Kgg.PNG/a_8ff113cdd51749999c7ece6cdf107a3d.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 샤넬 코코 크러쉬 네클리스 퀼티드 모티프 & 18K 옐로우 골드",
+    "aiEstimatedPrice": 3070000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "(W) Chanel Coco Crush Necklace Quilted Motif & 18K Yellow Gold",
+    "purchasePrice": 2050000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjcy/MDAxNzQxMjUxMzgxMDU0.SkH4_jb1x3lPcGB408z58teTCc33AhDMxK9-1CPi2X0g.Kpy42t7JyQCGMEx3O-hzbmXnzPmOyemUmrQ9mprXFxAg.PNG/a_0e7ee6ec201d4131b55e7d28c11b8e85.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTk5/MDAxNzQxMjUxNTU2ODUz.k6bhZFfRFhlLCc_iuNmFAU-uxF18WxsumGYuMCmEFysg.8irQVmnJGgTupQuLM9qbm25zFHrbS7fVD5lZAtR_-o4g.PNG/a_4cb94660016747afb29bc9e6cb5b5615.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "까르띠에 러브 브레이슬릿 옐로우 골드",
+    "aiEstimatedPrice": 10500000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Cartier Love Bracelet Yellow Gold",
+    "purchasePrice": 7000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjQx/MDAxNzQxMDQ4MjUxMjg0.CZ0BAM9hIshf3PMhHgn_DljHqDxFsUPcw2LyI5P2W1cg.LLoFrnEN-UxlnWhcohV5SSUPuTzyA-EQ4IIKBn1fec0g.PNG/a_fe70ee9b18b6448db2aaddc007b192dd.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjM2/MDAxNzQxMDQ4MjIwNjE3.QJA4b_TZ6v288aygRWvLsAAfFbT43PnS7de5MMB5jxAg.XFKM5gPyDmyNLlnLyjUIyvOahz6cYqzUmj428P7JicQg.PNG/a_d4865685620c4aa8b423a426f06bb58e.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "슈프림 x 제이콥 & 코 로고 링크 브레이슬릿 14K 골드 - 23SS",
+    "aiEstimatedPrice": 3290000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Supreme x Jacob & Co Logo Link Bracelet 14K Gold - 23SS",
+    "purchasePrice": 2190000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjQ1/MDAxNzQxMDQ4MjIwMTQ0.1pA4fja5vXZbMmV0sgaVydfY1c8NeaF_sTTDSjQ5gR8g.kq0DQ-4K9KnHQ4cRrmF0j8rCttWZHK88vT-t7WlzjXwg.PNG/a_f58400d5dd404e0c853c9f2cfa22d1d6.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjc2/MDAxNzQxMDQ4MjIwMjk4.DDNAnEhH4mXpTzfYBnxM03Dv70RmqVe2g5Af4anc1wYg.jq_bOJTbLRbQRQY-yOoi7vB4gbDlKTCiQ5OBuWSkZQQg.PNG/a_f4c9c9d03cbe44d7adab023bc661f058.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 화이트 골드 칼세도니",
+    "aiEstimatedPrice": 4270000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant White Gold Chalcedony",
+    "purchasePrice": 2840000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTI4/MDAxNzQxMjUxNTQ0NzIz.9wllfab5irO-vRsk3KNQiIOijNx0V6iqHzvp58O_9yAg.S2CsdhF3ilRwO-XhaIkkTSDLX2b7sRc8vGtFKm06BIUg.PNG/a_c036a9570c52434bb4d61be4c6bbccf4.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 옐로우 골드 마더 오브 펄",
+    "aiEstimatedPrice": 3070000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Yellow Gold Mother of Pearl",
+    "purchasePrice": 2050000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjM0/MDAxNzQxMjUxNTQwNjUz.1HLH3nOvabw7t563i_LsrZCAgBwKUWXHH85DK7UDofYg.rYhFYmlyjriXq-nA6dmdDeagBtwJkEzIvtCcc7Jlkakg.PNG/a_6606f1d1fb9c47988292c11e4ec5de73.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "샤넬 코코 크러쉬 링 퀼티드 모티프 스몰 & 18K 베이지 골드",
+    "aiEstimatedPrice": 3140000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Chanel Coco Crush Ring Quilted Motif Small & 18K Beige Gold",
+    "purchasePrice": 2090000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjU2/MDAxNzQxMDUzMzU0MDQ5.2iviT09Ip944snWwzkh3lSNwr1kNRr19SQWRZfjsUCAg.PI9FtPI6XNrJTy-dyHmYSyVrRkM8t73tcaP9rPkr6dwg.PNG/a_c5a993cd0f4d4103b6b91c1a287c65dd.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjE1/MDAxNzQxMDUzMzUzOTcz.NYcPe4DPzRdHPCBWANwxeEyrB2kLW86qqwKHD-tAUrsg.dGLhzR9k8cEw65GQBNBLmbZl5ek3FDhm-YR_25yfM3gg.PNG/a_d3cce2d06b73411f94ff74717a23c5d3.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 옐로우 골드 커넬리언",
+    "aiEstimatedPrice": 3140000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Yellow Gold Carnelian",
+    "purchasePrice": 2090000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTYx/MDAxNzQxMjUxNTM5OTE0.t6RvFeCcHDgV3_0zGoVbitJUP5vR7oJ-Ws-PUvkBlC0g.Muth60A7-btW8hHvN40J8qLf7zV_u89Pl4sns81rvQUg.PNG/a_37928758da864f798103897f0cea3ad1.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 스위트 알함브라 이어링 로즈 골드 커넬리언",
+    "aiEstimatedPrice": 4360000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Sweet Alhambra Earrings Rose Gold Carnelian",
+    "purchasePrice": 2910000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMTQ3/MDAxNzQxMzM3MjEwNzk3.hI7y-cpIydZNXHrarmWS3ho7VmX4LvC-SuZcj9O6UvIg.BjFOT8du44uPvMecu0DDhGhErI4Ul3Ivzr4_EDErQNMg.PNG/a_eebb98ae2f4f488cb0d5e1b25f7e5a29.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDdfMTMg/MDAxNzQxMzM3MjEyNjg2.zqpn60ksme72RNsaZqALee7ukkoEW7cfTafNrCwGLO4g.YRViMPiWXNigSpOirtA7sRhs31njaeAu7QDHTpxPL6kg.PNG/a_07a31422b0c8411b9b0c1acef5e90b60.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "다미아니 벨에포크 다이아몬드 네클리스 화이트 골드",
+    "aiEstimatedPrice": 3030000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Damiani Belle Epoque Diamonds Necklace White Gold",
+    "purchasePrice": 2020000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAxMjNfNDAg/MDAxNzM3NjE2NzE1ODUz.klRyoYluIt_LsXYGzcrNe7R2pVsObsJ3bWmDODztsr0g.SSGV-MvR0AK8HaJj5nRsX9EmVijhaRpWLeG5J4TF2ywg.PNG/a_e3aa9ee75b064b18825d99d00455521a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjM5/MDAxNzQxMjUxNDIyMDI1.zIzH2sYwwn1qBSZhAupS5GXLlGvi0HQh_2Xf75NPI_wg.PnJ5Z5p4JoeSXSECZeBw5Wq0v1pwsw7NHdE4TBX2zDog.PNG/a_42c448f6a41e41f7a0779503743ad238.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "까르띠에 러브 브레이슬릿 로즈 골드",
+    "aiEstimatedPrice": 7500000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Cartier Love Bracelet Rose Gold",
+    "purchasePrice": 5000000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjM2/MDAxNzQxMDQ4MjIwNjE3.QJA4b_TZ6v288aygRWvLsAAfFbT43PnS7de5MMB5jxAg.XFKM5gPyDmyNLlnLyjUIyvOahz6cYqzUmj428P7JicQg.PNG/a_d4865685620c4aa8b423a426f06bb58e.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjQx/MDAxNzQxMDQ4MjUxMjg0.CZ0BAM9hIshf3PMhHgn_DljHqDxFsUPcw2LyI5P2W1cg.LLoFrnEN-UxlnWhcohV5SSUPuTzyA-EQ4IIKBn1fec0g.PNG/a_fe70ee9b18b6448db2aaddc007b192dd.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 화이트 골드 마더 오브 펄",
+    "aiEstimatedPrice": 3750000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant White Gold Mother of Pearl",
+    "purchasePrice": 2500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfOCAg/MDAxNzQxMjUxNTQ0OTE1.eF75vEH3Lz7fFTf-5mrokTcZl5HrPNpo329RAxokAgcg.xvVPWW6IJCIV43LNv-w6LIjXyPuWkMVqqjRs8ipig00g.PNG/a_d5b19c210630413eaaf9333ece71a9fc.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 옐로우 골드 말라카이트",
+    "aiEstimatedPrice": 3290000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Yellow Gold Malachite",
+    "purchasePrice": 2190000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjQw/MDAxNzQxMjUxNDA3MjYx.GU37J_u5BIb7WSNcxjOWqRQvIpoK9RcIFhqLp396OoMg.AvI1cJyyM0qRd0MO3wJOjR_76CDcK--zBMZdsKtEexIg.PNG/a_a1ba5aff43684aa0b4cf5b4f61ea6db8.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "샤넬 코코 크러쉬 링 퀼티드 모티프 스몰 & 18K 화이트 골드",
+    "aiEstimatedPrice": 3450000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Chanel Coco Crush Ring Quilted Motif Small & 18K White Gold",
+    "purchasePrice": 2300000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTMw/MDAxNzQxMDUzMzU0MTY4.bgLH4Eg2qZp2jFLK-HhQutue6l6bDrvNUFGTiogI1h0g.tOPio7X0IT2SQxZZewfQGtJJL2cdT2miHo2m78tiJ1gg.PNG/a_2219c774f643498bb582673ae167bd49.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjU2/MDAxNzQxMDUzMzU0MDQ5.2iviT09Ip944snWwzkh3lSNwr1kNRr19SQWRZfjsUCAg.PI9FtPI6XNrJTy-dyHmYSyVrRkM8t73tcaP9rPkr6dwg.PNG/a_c5a993cd0f4d4103b6b91c1a287c65dd.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "샤넬 코코 크러쉬 링 퀼티드 모티프 미니 & 18K 화이트 골드 다이아몬드",
+    "aiEstimatedPrice": 4870000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Chanel Coco Crush Ring Quilted Motif Mini & 18K White Gold Diamonds",
+    "purchasePrice": 3250000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfNDcg/MDAxNzQxMDUzMzEzMTky.cICOWIm26NKvGhEtQp1hCu1nkiAQDK44isJ_Cwdc8n4g.IEMqSEmpVHWozK94rzuDoINO7XKtbbRkOIAJ6Twxxbkg.PNG/a_4c50b29274cf4aa3a9cd16ac448c0596.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTAg/MDAxNzQxMDUzMzUzODYz.z6wihfgVYaJMF3kPG7mDTAZvb2JogMdaPIcTIZYjWjgg.en6j9YDxbNB0Dl0JP5RBw1waaiOCTeFTdERpoQfLADwg.PNG/a_1f8b0410dbbf477297b4e86b5c47c067.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "티파니 앤 코 티파니 하드웨어 스몰 링크 브레이슬릿 로즈 골드",
+    "aiEstimatedPrice": 6750000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "Tiffany & Co. Tiffany Hardwear Small Link Bracelet Rose Gold",
+    "purchasePrice": 4500000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMjFfMjMz/MDAxNzQyNTM0MTE2Mzgy.91CsYBBa2pGFpKQQlzBcztxcCOxDxGRFSFlW42RuZ-og.V7HkKxhMTUQ_Wspy3uULXNzrV_jdjSAfzjqZLit5mQwg.PNG/a_a1614db4c7d74f979b031cacc771697f.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfNDQg/MDAxNzQxMDQ4NDIwMDA5.8vMUIhCNW17RB70FaebR5QyJe9T7q-cZAdPzozxNTK8g.2Lbpk_EcngNmJsZR-7hC-aGmFsT4CmSf8nyLBWn09PYg.PNG/a_ab44c8efd466415ba577c1900cc7321a.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "샤넬 코코 크러쉬 링 퀼티드 모티프 라지 & 18K 화이트 골드",
+    "aiEstimatedPrice": 4950000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Chanel Coco Crush Ring Quilted Motif Large & 18K White Gold",
+    "purchasePrice": 3300000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjYz/MDAxNzQxMDUzMzU0NDI4.p3tT0pU3Jj-LMTQatj3JrQqSU_8hdMPiQ5-mymtE214g.Limz_6MDWF6s1kprosS9-gvOPiCQQnexg_kzgqTJnw8g.PNG/a_6d9abd203dce496fb142a94f1f52965a.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjU4/MDAxNzQxMDUzMzU0MzU1.ZPJ1kZfNza1G5gthL-UYOoDyL1hExnE9GtbGE9J_FN0g.fzIGDGXu-iGkUi1ZqqnHu8TgRT5pXs1kJhTw_wL-kawg.PNG/a_b2c7d8fb63be4197a92dde3e43b9f5b8.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 옐로우 골드 타이거 아이",
+    "aiEstimatedPrice": 5110000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Yellow Gold Tiger Eye",
+    "purchasePrice": 3410000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTEz/MDAxNzQxMjUxNDA3Nzgx.tt8xh_ZeYTvI9EMjMlliyJgCaVfpQYGrVxViszHdz9cg.-uPoCYG2kHevzllvWCue2ZqYwzmO0BKRkDtbTd-6BbQg.PNG/a_75ee478f0ea94b76ba15d7fba790c63b.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMTlfMTk2/MDAxNzQyMzg3NDc1NDcz.RzYAAfdPsJ3ZUzcS10bo6P-Pyp3t8V_CaFHjPHQWYMcg.4W7Iv14yzT656KQszeB6wbT4iNe-D-4rpQ3H4vkVZlEg.PNG/a_15fac536340042eca02c6cd8ff291674.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티브 로즈 골드 커넬리언",
+    "aiEstimatedPrice": 6220000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs Rose Gold Carnelian",
+    "purchasePrice": 4150000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMjE1/MDAxNzQxMDQ4MjY3MTQ5.ynsjgZ61935285iZuHxfNLmtknqXhuAUOVvtVKADuHcg.dofkuj-sFB0bQgl-27cjznELhxGF5izo6Lc3dduZstog.PNG/a_2585f196c2ca4c5a92c801374b8137c6.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 브레이슬릿 5 모티브 옐로우 골드",
+    "aiEstimatedPrice": 7120000,
+    "aiEstimatedDescription": "희소성이 높아 투자 가치가 있습니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Bracelet 5 Motifs Yellow Gold",
+    "purchasePrice": 4750000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfNTkg/MDAxNzQxMDQ4MjM2MTg4.0pLPw1fVc4bjaQnGUmdHMMsxp5U7FphJHseyLNbEZWkg.2CBtY7azhqHjDfh7gvONIjDoBHxOHbTrGDh92ZzZKccg.PNG/a_2cfe858b645e4b1285d3a9c3c0379049.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfMTkw/MDAxNzQxMDQ4NDA2ODY0.WJ1Pu_qWrdCMQRlhHBXR-LoWvoUsxwvAJ3ZSzNE0mwwg.HX0t5vnAGmMaiUjm0pgDOXJcF6nUpiukQV3wZ0YiCwEg.PNG/a_eb2c506d229849c38bcfa5a0976cf393.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "(W) 반 클리프 & 아펠 빈티지 알함브라 펜던트 로즈 골드 마더 오브 펄",
+    "aiEstimatedPrice": 5110000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "(W) Van Cleef & Arpels Vintage Alhambra Pendant Rose Gold Mother of Pearl",
+    "purchasePrice": 3410000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMTg0/MDAxNzQxMjUxNTQxOTc4.Ak5srp2VaRzTUO_RmFnwUhRQeoi0Niz8x7M1Dvx3x3Ug.UZEjW03-baAxasWHSfmf_0qV3EYZSdog-_tzeaiTn_Ig.PNG/a_d20ea70a1f1347b1a2db73fdf798e7fe.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjEw/MDAxNzQxMjUxNTQwNDMx.Tl7Uxw6t0IbcC5eHD4rlsyXN3vTnin6uDDH8Zv0DvGIg.iGUCJS9YeTL3PcTSuz4CSjOu_zDBqfZK1s0FJjJVBDUg.PNG/a_6724a1cc7c6944a9954bf55b83f386ca.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "티파니 앤 코 T 엑스트라 라지 스마일 펜던트 로즈 골드",
+    "aiEstimatedPrice": 4260000,
+    "aiEstimatedDescription": "시간이 지나도 변치 않는 클래식한 디자인입니다.",
+    "description": "Tiffany & Co. T Extra Large Smile Pendant Rose Gold",
+    "purchasePrice": 2840000,
+    "productStatus": "STORED",
+    "storageLocation": "물류B",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfMjgw/MDAxNzQxMjUxMzk4NjQ3.nWKjqEVrW7ZGFgJAY3je7o5YE7Fs_mb8MzQO6bqdtVcg.AyRWnH3AaljoPFojhTHSsnRbX0KOjd6Kxoh7RGdy-LUg.PNG/a_082068817e324a8b99a16bd4600bcdbb.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDZfODkg/MDAxNzQxMjUxMzk4NDYx.i8g-KYIROBXAKFl3G5f7aslSyxHuvrN6HmA-OMZnyMkg.S9DqQxzGJ28MUiRFVJolUVHjTdWHSSwCky4xs6PsxhQg.PNG/a_088fd139f0bc4da194117b3409e32d60.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "부쉐론 콰트로 클래식 링 스몰 18K 옐로우 골드 화이트 골드 핑크 골드 브라운",
+    "aiEstimatedPrice": 3280000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Boucheron Quatre Classique Ring Small 18K Yellow White Pink Gold Brown",
+    "purchasePrice": 2190000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAzMDRfNTQg/MDAxNzQxMDUzMzU4NzQz.W9JjBhpQwrPPl8DHG3EzraBTwlzkwzBSWnsa3w80Omcg.Bxy82lFcCgalb1y0fZMWxmwog6mTwfDC9ihWiOAgwLAg.PNG/a_21113361088245a5973016e2af3fd1ac.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTAyMjdfMTQ3/MDAxNzQwNTg1MjMyMDg5.L79tFcsYcWyMQchLKq7i2Y82f4J5BrsL8Y4Bp_VieuMg.DgxvSvH-0gSvMpbcGBaViesn9qJHuVHepJ_N5dORO_wg.PNG/a_f50bf2afc0284c31a833719234c0af32.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "까르띠에 저스트 앵끌루 다이아 화이트골드 네크리스",
+    "aiEstimatedPrice": 5610000,
+    "aiEstimatedDescription": "최상급 컨디션의 인기 제품입니다.",
+    "description": "Cartier Juste un Clou Diamond White Gold Necklace",
+    "purchasePrice": 3740000,
+    "productStatus": "STORED",
+    "storageLocation": "물류A",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA3MDFfMjM1/MDAxNzUxMzUyNTI5MDk4.3Oa8TY6aax9KHxLPifzZgZNFYyOzK7nPHjNwryfNAv0g.nUxYrPg4-SFS4twlWc76ub4fd-JBbDTUUMBf1U-BCPMg.PNG/p_de61203153f94f72bc42678223a4d370.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA3MDFfMjkx/MDAxNzUxMzUyMDUzMjM1.KyOPp8wDSbkEj7nIEku3pv7GfllCQJj7GD5LWiUKh-og.Q5KlAiCPNjSYjkKs9Jr1XdXvP7BmDLXAVap2UNoQGXsg.PNG/p_787b9b9e5de048819dca68493927741c.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "까르띠에 저스트 앵끌루 파베 다이아 화이트골드 네크리스",
+    "aiEstimatedPrice": 7420000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Cartier Juste un Clou Pave Diamond White Gold Necklace",
+    "purchasePrice": 4950000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA3MDFfMjkx/MDAxNzUxMzUyMDUzMjM1.KyOPp8wDSbkEj7nIEku3pv7GfllCQJj7GD5LWiUKh-og.Q5KlAiCPNjSYjkKs9Jr1XdXvP7BmDLXAVap2UNoQGXsg.PNG/p_787b9b9e5de048819dca68493927741c.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA3MDFfMjM1/MDAxNzUxMzUyNTI5MDk4.3Oa8TY6aax9KHxLPifzZgZNFYyOzK7nPHjNwryfNAv0g.nUxYrPg4-SFS4twlWc76ub4fd-JBbDTUUMBf1U-BCPMg.PNG/p_de61203153f94f72bc42678223a4d370.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "반클리프 빈티지 알함브라 말라카이트 네크리스 ARO9VA00",
+    "aiEstimatedPrice": 3460000,
+    "aiEstimatedDescription": "소장용으로도 적합한 가치 있는 제품입니다.",
+    "description": "Van Cleef & Arpels Vintage Alhambra Malachite Necklace ARO9VA00",
+    "purchasePrice": 2310000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA2MjZfMjQ1/MDAxNzUwOTEyNjE3MDEz.hcOX2BUZX29TS-VqEu_dazYmf3uG18bvz7oJoo1XnQEg.lKtwGwdYRhu7KFsJAkmb0owACLxzGFLw_QOheqUYd0Eg.PNG/p_f34e8702e01248598127a12ed08ccdbc.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA0MjNfMTc3/MDAxNzQ1Mzk5Mjc1NjI4.iGEzC08QctDhBKsbNHMnzDWu_bmlEnaDQpWEmfg8omog.RPOL8RueAoDC-_svr36XueMWhSVkuuQ1stNlHM9q9Ukg.PNG/p_d6bab5ae4cb7473481eec9663aa6b6f4.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  },
+  {
+    "productName": "반클리프앤아펠 빈티지 알함브라 5모티브 브레이슬릿 18K 로즈골드 기요쉐/커넬리언",
+    "aiEstimatedPrice": 6990000,
+    "aiEstimatedDescription": "보관 상태가 우수한 고급 상품입니다.",
+    "description": "Van Cleef & Arpels Vintage Alhambra 5 Motifs Bracelet 18K Rose Gold Guilloche/Carnelian",
+    "purchasePrice": 4660000,
+    "productStatus": "STORED",
+    "storageLocation": "물류C",
+    "images": [
+      {
+        "imageIndex": 0,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA2MjNfMjYx/MDAxNzUwNjYwNTk2ODA1.CuminZyAdIble1MUKgQ5ToIE6PkwurwaYEc-G5pDS7Ug.y_H3LE56uLeB0MJqWZSSkSRCufBwHBt7PAtRH6nUyvsg.PNG/p_169e71d41dee4b83a3ee49fcfd78e52e.png",
+        "isThumbnail": true
+      },
+      {
+        "imageIndex": 1,
+        "imageUrl": "https://kream-phinf.pstatic.net/MjAyNTA2MTdfMjcy/MDAxNzUwMTQ3NjU3NjIz.06eObyZi6hHdy3pn1nrJ_73lRi9AZ8CoMUICe6Kzewcg.S9ePf2S5qVs4Zgip4HmBc8pMA-dKiMZvFCVuC3xu7Vsg.PNG/p_c795619a759e46e09dfc8a772edecbdf.png",
+        "isThumbnail": false
+      }
+    ],
+    "mainCategory": {
+      "categoryId": 8,
+      "categoryName": "쥬얼리"
+    },
+    "subCategory": {
+      "categoryId": 26,
+      "categoryName": "명품 브랜드 쥬얼리"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "email": "donghyeon73@example.org",
+    "password": "qwerty123!",
+    "name": "김춘자",
+    "phoneNumber": "01049379279",
+    "birthdate": "1990-02-13T00:00:00",
+    "nickname": "wyun",
+    "gender": "여성"
+  },
+  {
+    "email": "hanjeongja@example.net",
+    "password": "qwerty123!",
+    "name": "권시우",
+    "phoneNumber": "01074157419",
+    "birthdate": "1991-06-04T00:00:00",
+    "nickname": "isangceol",
+    "gender": "남성"
+  },
+  {
+    "email": "siui@example.net",
+    "password": "qwerty123!",
+    "name": "류지연",
+    "phoneNumber": "01087381743",
+    "birthdate": "2003-09-18T00:00:00",
+    "nickname": "jinho36",
+    "gender": "남성"
+  },
+  {
+    "email": "pi@example.net",
+    "password": "qwerty123!",
+    "name": "안은영",
+    "phoneNumber": "01057222408",
+    "birthdate": "2004-08-12T00:00:00",
+    "nickname": "qseong",
+    "gender": "남성"
+  },
+  {
+    "email": "yeonghogweon@example.net",
+    "password": "qwerty123!",
+    "name": "최영미",
+    "phoneNumber": "01065692693",
+    "birthdate": "1992-03-21T00:00:00",
+    "nickname": "isugja",
+    "gender": "남성"
+  },
+  {
+    "email": "tgim@example.org",
+    "password": "qwerty123!",
+    "name": "이상현",
+    "phoneNumber": "01063681636",
+    "birthdate": "1994-05-24T00:00:00",
+    "nickname": "sunoggim",
+    "gender": "여성"
+  },
+  {
+    "email": "lgim@example.com",
+    "password": "qwerty123!",
+    "name": "장순옥",
+    "phoneNumber": "01071382338",
+    "birthdate": "1990-09-22T00:00:00",
+    "nickname": "lhan",
+    "gender": "여성"
+  },
+  {
+    "email": "yejibag@example.com",
+    "password": "qwerty123!",
+    "name": "박재현",
+    "phoneNumber": "01033116788",
+    "birthdate": "1987-01-28T00:00:00",
+    "nickname": "jeongho32",
+    "gender": "여성"
+  },
+  {
+    "email": "isujin@example.org",
+    "password": "qwerty123!",
+    "name": "이영식",
+    "phoneNumber": "01093513306",
+    "birthdate": "2002-06-21T00:00:00",
+    "nickname": "jeongsu28",
+    "gender": "여성"
+  },
+  {
+    "email": "nson@example.com",
+    "password": "qwerty123!",
+    "name": "서지우",
+    "phoneNumber": "01057537562",
+    "birthdate": "2003-03-14T00:00:00",
+    "nickname": "yejuno",
+    "gender": "여성"
+  }
+]
