@@ -47,7 +47,7 @@ def main():
     fundings = get_funding_list(any_user)
 
     funding_done = set()
-    target_done_count = 10
+    target_done_count = 30
     attempt_limit = 10000
 
     print(f"👥 유저 수: {len(users)} / 🎯 전체 공모 수: {len(fundings)}")

@@ -15,14 +15,14 @@ CRAWLING_ITEMS = [
 ]
 
 # API 서버 URL
-BASE_URL = "https://api.pieceofcake.site"
-# BASE_URL = "http://localhost:8000"
+# BASE_URL = "https://api.pieceofcake.site"
+BASE_URL = "http://localhost:8000"
 
-USER_PATH = "./users_remote.json"
-# USER_PATH = "./users_local.json"
+# USER_PATH = "./users_remote.json"
+USER_PATH = "./users_local.json"
 # JWT 파일 경로
-JWT_PATH = "./login_jwt_memberUuid_remote.json"
-# JWT_PATH = "./login_jwt_memberUuid_local.json"
+# JWT_PATH = "./login_jwt_memberUuid_remote.json"
+JWT_PATH = "./login_jwt_memberUuid_local.json"
 
 # 기타 공통 설정
 DEFAULT_REQUEST_TIMEOUT = 30

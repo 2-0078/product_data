@@ -107,7 +107,7 @@ def generate_price(market_price, is_sell):
     return price
 
 # 랜덤 수량 생성 함수
-def generate_random_quantity(max_quantity=20):
+def generate_random_quantity(max_quantity=100):
     return random.randint(1, max_quantity)
 
 # 통합된 거래 시뮬레이션 함수
@@ -145,14 +145,15 @@ def simulate_trading(users, piece_product_uuids, mode="time", duration=30, itera
         try:
             # 랜덤 상품 선택
             # piece_product_uuid = random.choice(product_uuids)
-            piece_product_uuid = piece_product_uuids[0]
+            # piece_product_uuid = "ee60f0fe-2cf3-42c3-902c-f52f5687301e"
+            piece_product_uuid = "fd26dac9-30d7-4e3a-a72e-27245cead2a7"
 
             # 시장가 조회
             user = random.choice(users)  # 랜덤 사용자 선택
             market_price = get_market_price(piece_product_uuid, user)
             
             # 매도/매수 랜덤 선택
-            is_sell = random.choice([True, False])
+            is_sell = random.random() < 0.4
             
             print(f"[{is_sell}, {order_count}] 📊 시장가 조회 - {user['email'][:10]}... | 상품 UUID: {piece_product_uuid} | 시장가: {market_price:,}원")
             # 항상 소유권 확인 진행
