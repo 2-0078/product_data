@@ -15,8 +15,8 @@ for item in CRAWLING_ITEMS:
     MAIN_CATEGORY = item['MAIN_CATEGORY']
     SUB_CATEGORY = item['SUB_CATEGORY']
 
-    input_filename = f'output_{PRODUCT}.csv'
-    output_filename = f'converted_products_{PRODUCT}.json'
+    input_filename = f'./data/output_{PRODUCT}.csv'
+    output_filename = f'./data/converted_products_{PRODUCT}.json'
 
     products = []
 
