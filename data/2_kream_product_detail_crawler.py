@@ -82,43 +82,58 @@ try:
             }
 
         csv_file = f'./data/output_{PRODUCT}.csv'
-        # with 구문으로 열어두면 자동으로 flush & close
+        # CSV 파일을 먼저 생성하고 헤더 작성
         with open(csv_file, "w", encoding="utf-8-sig", newline="") as f:
             writer = csv.writer(f)
             writer.writerow(["상품ID", "영문명", "한글명", "가격", "이미지URL(들)"])
 
-            with open(f"./data/product_ids_{PRODUCT}.txt", "r", encoding="utf-8") as id_file:
-                for line in id_file:
-                    pid = line.strip()
-                    if not pid:
-                        continue
+        # 각 상품ID를 처리하면서 데이터를 append 모드로 저장
+        with open(f"./data/product_ids_{PRODUCT}.txt", "r", encoding="utf-8") as id_file:
+            for line in id_file:
+                pid = line.strip()
+                if not pid:
+                    continue
 
-                    print(f"[진행중] 상품 ID: {pid}")
+                print(f"[진행중] 상품 ID: {pid}")
+                try:
                     data = crawl_product(pid)
-
+                    
                     if data:
                         if data["price"] != "-" and data["images"] and int(re.sub(r"[^\d]", "", data["price"])) >= 5000000:
-                            writer.writerow([
-                                data["product_id"],
-                                data["eng_name"],
-                                data["kor_name"],
-                                data["price"],
-                                "|".join(data["images"])
-                            ])
+                            # 각 데이터를 즉시 파일에 저장 (append 모드)
+                            with open(csv_file, "a", encoding="utf-8-sig", newline="") as f:
+                                writer = csv.writer(f)
+                                writer.writerow([
+                                    data["product_id"],
+                                    data["eng_name"],
+                                    data["kor_name"],
+                                    data["price"],
+                                    "|".join(data["images"])
+                                ])
+                            print(f"[저장완료] 상품 ID: {pid}")
                         else:
                             print(f"[건너뜀] 상품 ID: {pid} - 유효하지 않은 데이터 (가격: {data['price']}, 이미지 수: {len(data['images'])})")
                     else:
                         print(f"[건너뜀] 상품 ID: {pid} - 데이터 없음")
                         time.sleep(300)  # 데이터가 없을 경우 5분 대기
 
-                    time.sleep(random.uniform(1.0, 2.0))
+                except Exception as e:
+                    print(f"[에러] 상품 ID: {pid} 처리 중 에러 발생: {e}")
+                    # 에러가 발생해도 다음 상품으로 계속 진행
+                    continue
 
-        # PRODUCT 단건 정보 저장
-        driver.get(URL)
-        product_details = crawl_product(PRODUCT)
-        if product_details:
-            with open(f'./data/product_details_{PRODUCT}.json', 'w', encoding='utf-8') as f_json:
-                json.dump(product_details, f_json, ensure_ascii=False, indent=4)
+                time.sleep(random.uniform(1.0, 2.0))        # PRODUCT 단건 정보 저장
+        try:
+            driver.get(URL)
+            product_details = crawl_product(PRODUCT)
+            if product_details:
+                with open(f'./data/product_details_{PRODUCT}.json', 'w', encoding='utf-8') as f_json:
+                    json.dump(product_details, f_json, ensure_ascii=False, indent=4)
+                print(f"[저장완료] {PRODUCT} 상품 상세 정보가 JSON 파일에 저장되었습니다.")
+        except Exception as e:
+            print(f"[에러] {PRODUCT} 상품 상세 정보 저장 중 에러 발생: {e}")
+        
+        print(f"[완료] {PRODUCT} 카테고리 크롤링 완료")
 
 # 중간에 Ctrl+C 등으로 중단될 때 잡아내는 블록
 except KeyboardInterrupt:
