@@ -1,4 +1,4 @@
-from random import random
+import random
 import re
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -12,20 +12,41 @@ import csv
 import time
 import os, sys
 import json
+from selenium_stealth import stealth
 
 root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 sys.path.append(root)
 from config import CRAWLING_ITEMS
 
 options = Options()
-options.add_argument('--headless')
+# options.add_argument('--headless')
 options.add_argument('--disable-gpu')
 options.add_argument('--no-sandbox')
-options.add_argument("user-agent=Mozilla/5.0 ...")
+options.add_argument('--disable-blink-features=AutomationControlled')
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+options.add_argument('--lang=ko-KR')
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option('useAutomationExtension', False)
 options.add_argument('--disable-logging')
 options.add_argument('--log-level=3')
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+stealth(driver,
+    languages=["ko-KR", "ko"],
+    vendor="Google Inc.",
+    platform="Win32",
+    webgl_vendor="Intel Inc.",
+    renderer="Intel Iris OpenGL Engine",
+    fix_hairline=True,
+)
+# webdriver 탐지 우회 (navigator.webdriver = false)
+driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+    "source": """
+        Object.defineProperty(navigator, 'webdriver', {
+            get: () => undefined
+        })
+    """
+})
 
 # ─────────────────────────────────────────────────────────────────
 # 전체 루프를 try/except/finally로 감싸서 중간 중단 시에도 저장 및 드라이버 종료를 보장
